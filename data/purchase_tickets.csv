@@ -1,0 +1,501 @@
+ticket_id,issue,solution,department
+TPU0001,multiple charges,Escalate to billing for reversal,purchase
+TPU0002,invoice not received,Email invoice copy to customer,purchase
+TPU0003,multiple charges,Escalate to billing for reversal,purchase
+TPU0004,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0005,payment declined,Check card info and retry,purchase
+TPU0006,multiple charges,Escalate to billing for reversal,purchase
+TPU0007,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0008,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0009,invoice not received,Email invoice copy to customer,purchase
+TPU0010,cannot add to cart,Clear app data and retry,purchase
+TPU0011,cannot add to cart,Clear app data and retry,purchase
+TPU0012,multiple charges,Escalate to billing for reversal,purchase
+TPU0013,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0014,payment declined,Check card info and retry,purchase
+TPU0015,payment declined,Check card info and retry,purchase
+TPU0016,payment declined,Check card info and retry,purchase
+TPU0017,cannot add to cart,Clear app data and retry,purchase
+TPU0018,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0019,invoice not received,Email invoice copy to customer,purchase
+TPU0020,cannot add to cart,Clear app data and retry,purchase
+TPU0021,multiple charges,Escalate to billing for reversal,purchase
+TPU0022,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0023,payment declined,Check card info and retry,purchase
+TPU0024,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0025,cannot add to cart,Clear app data and retry,purchase
+TPU0026,cannot add to cart,Clear app data and retry,purchase
+TPU0027,multiple charges,Escalate to billing for reversal,purchase
+TPU0028,invoice not received,Email invoice copy to customer,purchase
+TPU0029,invoice not received,Email invoice copy to customer,purchase
+TPU0030,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0031,cannot add to cart,Clear app data and retry,purchase
+TPU0032,cannot add to cart,Clear app data and retry,purchase
+TPU0033,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0034,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0035,payment declined,Check card info and retry,purchase
+TPU0036,invoice not received,Email invoice copy to customer,purchase
+TPU0037,invoice not received,Email invoice copy to customer,purchase
+TPU0038,multiple charges,Escalate to billing for reversal,purchase
+TPU0039,cannot add to cart,Clear app data and retry,purchase
+TPU0040,cannot add to cart,Clear app data and retry,purchase
+TPU0041,cannot add to cart,Clear app data and retry,purchase
+TPU0042,cannot add to cart,Clear app data and retry,purchase
+TPU0043,multiple charges,Escalate to billing for reversal,purchase
+TPU0044,payment declined,Check card info and retry,purchase
+TPU0045,multiple charges,Escalate to billing for reversal,purchase
+TPU0046,invoice not received,Email invoice copy to customer,purchase
+TPU0047,cannot add to cart,Clear app data and retry,purchase
+TPU0048,multiple charges,Escalate to billing for reversal,purchase
+TPU0049,multiple charges,Escalate to billing for reversal,purchase
+TPU0050,cannot add to cart,Clear app data and retry,purchase
+TPU0051,cannot add to cart,Clear app data and retry,purchase
+TPU0052,cannot add to cart,Clear app data and retry,purchase
+TPU0053,cannot add to cart,Clear app data and retry,purchase
+TPU0054,cannot add to cart,Clear app data and retry,purchase
+TPU0055,multiple charges,Escalate to billing for reversal,purchase
+TPU0056,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0057,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0058,cannot add to cart,Clear app data and retry,purchase
+TPU0059,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0060,multiple charges,Escalate to billing for reversal,purchase
+TPU0061,multiple charges,Escalate to billing for reversal,purchase
+TPU0062,multiple charges,Escalate to billing for reversal,purchase
+TPU0063,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0064,multiple charges,Escalate to billing for reversal,purchase
+TPU0065,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0066,multiple charges,Escalate to billing for reversal,purchase
+TPU0067,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0068,multiple charges,Escalate to billing for reversal,purchase
+TPU0069,cannot add to cart,Clear app data and retry,purchase
+TPU0070,invoice not received,Email invoice copy to customer,purchase
+TPU0071,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0072,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0073,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0074,multiple charges,Escalate to billing for reversal,purchase
+TPU0075,multiple charges,Escalate to billing for reversal,purchase
+TPU0076,payment declined,Check card info and retry,purchase
+TPU0077,cannot add to cart,Clear app data and retry,purchase
+TPU0078,cannot add to cart,Clear app data and retry,purchase
+TPU0079,invoice not received,Email invoice copy to customer,purchase
+TPU0080,cannot add to cart,Clear app data and retry,purchase
+TPU0081,multiple charges,Escalate to billing for reversal,purchase
+TPU0082,payment declined,Check card info and retry,purchase
+TPU0083,cannot add to cart,Clear app data and retry,purchase
+TPU0084,payment declined,Check card info and retry,purchase
+TPU0085,multiple charges,Escalate to billing for reversal,purchase
+TPU0086,payment declined,Check card info and retry,purchase
+TPU0087,cannot add to cart,Clear app data and retry,purchase
+TPU0088,payment declined,Check card info and retry,purchase
+TPU0089,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0090,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0091,payment declined,Check card info and retry,purchase
+TPU0092,cannot add to cart,Clear app data and retry,purchase
+TPU0093,cannot add to cart,Clear app data and retry,purchase
+TPU0094,payment declined,Check card info and retry,purchase
+TPU0095,payment declined,Check card info and retry,purchase
+TPU0096,invoice not received,Email invoice copy to customer,purchase
+TPU0097,cannot add to cart,Clear app data and retry,purchase
+TPU0098,payment declined,Check card info and retry,purchase
+TPU0099,invoice not received,Email invoice copy to customer,purchase
+TPU0100,payment declined,Check card info and retry,purchase
+TPU0101,invoice not received,Email invoice copy to customer,purchase
+TPU0102,multiple charges,Escalate to billing for reversal,purchase
+TPU0103,multiple charges,Escalate to billing for reversal,purchase
+TPU0104,cannot add to cart,Clear app data and retry,purchase
+TPU0105,multiple charges,Escalate to billing for reversal,purchase
+TPU0106,invoice not received,Email invoice copy to customer,purchase
+TPU0107,invoice not received,Email invoice copy to customer,purchase
+TPU0108,invoice not received,Email invoice copy to customer,purchase
+TPU0109,multiple charges,Escalate to billing for reversal,purchase
+TPU0110,multiple charges,Escalate to billing for reversal,purchase
+TPU0111,cannot add to cart,Clear app data and retry,purchase
+TPU0112,payment declined,Check card info and retry,purchase
+TPU0113,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0114,cannot add to cart,Clear app data and retry,purchase
+TPU0115,payment declined,Check card info and retry,purchase
+TPU0116,invoice not received,Email invoice copy to customer,purchase
+TPU0117,invoice not received,Email invoice copy to customer,purchase
+TPU0118,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0119,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0120,invoice not received,Email invoice copy to customer,purchase
+TPU0121,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0122,payment declined,Check card info and retry,purchase
+TPU0123,multiple charges,Escalate to billing for reversal,purchase
+TPU0124,payment declined,Check card info and retry,purchase
+TPU0125,cannot add to cart,Clear app data and retry,purchase
+TPU0126,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0127,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0128,invoice not received,Email invoice copy to customer,purchase
+TPU0129,payment declined,Check card info and retry,purchase
+TPU0130,cannot add to cart,Clear app data and retry,purchase
+TPU0131,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0132,cannot add to cart,Clear app data and retry,purchase
+TPU0133,cannot add to cart,Clear app data and retry,purchase
+TPU0134,invoice not received,Email invoice copy to customer,purchase
+TPU0135,cannot add to cart,Clear app data and retry,purchase
+TPU0136,payment declined,Check card info and retry,purchase
+TPU0137,multiple charges,Escalate to billing for reversal,purchase
+TPU0138,invoice not received,Email invoice copy to customer,purchase
+TPU0139,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0140,cannot add to cart,Clear app data and retry,purchase
+TPU0141,invoice not received,Email invoice copy to customer,purchase
+TPU0142,multiple charges,Escalate to billing for reversal,purchase
+TPU0143,cannot add to cart,Clear app data and retry,purchase
+TPU0144,invoice not received,Email invoice copy to customer,purchase
+TPU0145,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0146,multiple charges,Escalate to billing for reversal,purchase
+TPU0147,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0148,invoice not received,Email invoice copy to customer,purchase
+TPU0149,invoice not received,Email invoice copy to customer,purchase
+TPU0150,cannot add to cart,Clear app data and retry,purchase
+TPU0151,invoice not received,Email invoice copy to customer,purchase
+TPU0152,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0153,multiple charges,Escalate to billing for reversal,purchase
+TPU0154,payment declined,Check card info and retry,purchase
+TPU0155,multiple charges,Escalate to billing for reversal,purchase
+TPU0156,cannot add to cart,Clear app data and retry,purchase
+TPU0157,cannot add to cart,Clear app data and retry,purchase
+TPU0158,multiple charges,Escalate to billing for reversal,purchase
+TPU0159,payment declined,Check card info and retry,purchase
+TPU0160,cannot add to cart,Clear app data and retry,purchase
+TPU0161,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0162,payment declined,Check card info and retry,purchase
+TPU0163,cannot add to cart,Clear app data and retry,purchase
+TPU0164,cannot add to cart,Clear app data and retry,purchase
+TPU0165,cannot add to cart,Clear app data and retry,purchase
+TPU0166,invoice not received,Email invoice copy to customer,purchase
+TPU0167,invoice not received,Email invoice copy to customer,purchase
+TPU0168,cannot add to cart,Clear app data and retry,purchase
+TPU0169,multiple charges,Escalate to billing for reversal,purchase
+TPU0170,invoice not received,Email invoice copy to customer,purchase
+TPU0171,payment declined,Check card info and retry,purchase
+TPU0172,invoice not received,Email invoice copy to customer,purchase
+TPU0173,cannot add to cart,Clear app data and retry,purchase
+TPU0174,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0175,cannot add to cart,Clear app data and retry,purchase
+TPU0176,payment declined,Check card info and retry,purchase
+TPU0177,multiple charges,Escalate to billing for reversal,purchase
+TPU0178,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0179,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0180,payment declined,Check card info and retry,purchase
+TPU0181,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0182,payment declined,Check card info and retry,purchase
+TPU0183,payment declined,Check card info and retry,purchase
+TPU0184,invoice not received,Email invoice copy to customer,purchase
+TPU0185,cannot add to cart,Clear app data and retry,purchase
+TPU0186,multiple charges,Escalate to billing for reversal,purchase
+TPU0187,invoice not received,Email invoice copy to customer,purchase
+TPU0188,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0189,invoice not received,Email invoice copy to customer,purchase
+TPU0190,payment declined,Check card info and retry,purchase
+TPU0191,invoice not received,Email invoice copy to customer,purchase
+TPU0192,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0193,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0194,payment declined,Check card info and retry,purchase
+TPU0195,cannot add to cart,Clear app data and retry,purchase
+TPU0196,multiple charges,Escalate to billing for reversal,purchase
+TPU0197,multiple charges,Escalate to billing for reversal,purchase
+TPU0198,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0199,payment declined,Check card info and retry,purchase
+TPU0200,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0201,invoice not received,Email invoice copy to customer,purchase
+TPU0202,cannot add to cart,Clear app data and retry,purchase
+TPU0203,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0204,payment declined,Check card info and retry,purchase
+TPU0205,multiple charges,Escalate to billing for reversal,purchase
+TPU0206,multiple charges,Escalate to billing for reversal,purchase
+TPU0207,payment declined,Check card info and retry,purchase
+TPU0208,cannot add to cart,Clear app data and retry,purchase
+TPU0209,invoice not received,Email invoice copy to customer,purchase
+TPU0210,payment declined,Check card info and retry,purchase
+TPU0211,payment declined,Check card info and retry,purchase
+TPU0212,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0213,multiple charges,Escalate to billing for reversal,purchase
+TPU0214,invoice not received,Email invoice copy to customer,purchase
+TPU0215,multiple charges,Escalate to billing for reversal,purchase
+TPU0216,invoice not received,Email invoice copy to customer,purchase
+TPU0217,multiple charges,Escalate to billing for reversal,purchase
+TPU0218,invoice not received,Email invoice copy to customer,purchase
+TPU0219,cannot add to cart,Clear app data and retry,purchase
+TPU0220,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0221,payment declined,Check card info and retry,purchase
+TPU0222,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0223,invoice not received,Email invoice copy to customer,purchase
+TPU0224,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0225,cannot add to cart,Clear app data and retry,purchase
+TPU0226,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0227,invoice not received,Email invoice copy to customer,purchase
+TPU0228,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0229,multiple charges,Escalate to billing for reversal,purchase
+TPU0230,payment declined,Check card info and retry,purchase
+TPU0231,invoice not received,Email invoice copy to customer,purchase
+TPU0232,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0233,cannot add to cart,Clear app data and retry,purchase
+TPU0234,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0235,payment declined,Check card info and retry,purchase
+TPU0236,payment declined,Check card info and retry,purchase
+TPU0237,payment declined,Check card info and retry,purchase
+TPU0238,invoice not received,Email invoice copy to customer,purchase
+TPU0239,multiple charges,Escalate to billing for reversal,purchase
+TPU0240,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0241,multiple charges,Escalate to billing for reversal,purchase
+TPU0242,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0243,cannot add to cart,Clear app data and retry,purchase
+TPU0244,cannot add to cart,Clear app data and retry,purchase
+TPU0245,payment declined,Check card info and retry,purchase
+TPU0246,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0247,cannot add to cart,Clear app data and retry,purchase
+TPU0248,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0249,invoice not received,Email invoice copy to customer,purchase
+TPU0250,payment declined,Check card info and retry,purchase
+TPU0251,payment declined,Check card info and retry,purchase
+TPU0252,payment declined,Check card info and retry,purchase
+TPU0253,payment declined,Check card info and retry,purchase
+TPU0254,multiple charges,Escalate to billing for reversal,purchase
+TPU0255,multiple charges,Escalate to billing for reversal,purchase
+TPU0256,invoice not received,Email invoice copy to customer,purchase
+TPU0257,cannot add to cart,Clear app data and retry,purchase
+TPU0258,invoice not received,Email invoice copy to customer,purchase
+TPU0259,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0260,cannot add to cart,Clear app data and retry,purchase
+TPU0261,invoice not received,Email invoice copy to customer,purchase
+TPU0262,cannot add to cart,Clear app data and retry,purchase
+TPU0263,payment declined,Check card info and retry,purchase
+TPU0264,cannot add to cart,Clear app data and retry,purchase
+TPU0265,multiple charges,Escalate to billing for reversal,purchase
+TPU0266,multiple charges,Escalate to billing for reversal,purchase
+TPU0267,invoice not received,Email invoice copy to customer,purchase
+TPU0268,payment declined,Check card info and retry,purchase
+TPU0269,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0270,payment declined,Check card info and retry,purchase
+TPU0271,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0272,multiple charges,Escalate to billing for reversal,purchase
+TPU0273,cannot add to cart,Clear app data and retry,purchase
+TPU0274,invoice not received,Email invoice copy to customer,purchase
+TPU0275,cannot add to cart,Clear app data and retry,purchase
+TPU0276,cannot add to cart,Clear app data and retry,purchase
+TPU0277,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0278,invoice not received,Email invoice copy to customer,purchase
+TPU0279,multiple charges,Escalate to billing for reversal,purchase
+TPU0280,multiple charges,Escalate to billing for reversal,purchase
+TPU0281,multiple charges,Escalate to billing for reversal,purchase
+TPU0282,multiple charges,Escalate to billing for reversal,purchase
+TPU0283,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0284,cannot add to cart,Clear app data and retry,purchase
+TPU0285,multiple charges,Escalate to billing for reversal,purchase
+TPU0286,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0287,payment declined,Check card info and retry,purchase
+TPU0288,payment declined,Check card info and retry,purchase
+TPU0289,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0290,multiple charges,Escalate to billing for reversal,purchase
+TPU0291,invoice not received,Email invoice copy to customer,purchase
+TPU0292,payment declined,Check card info and retry,purchase
+TPU0293,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0294,multiple charges,Escalate to billing for reversal,purchase
+TPU0295,cannot add to cart,Clear app data and retry,purchase
+TPU0296,multiple charges,Escalate to billing for reversal,purchase
+TPU0297,cannot add to cart,Clear app data and retry,purchase
+TPU0298,cannot add to cart,Clear app data and retry,purchase
+TPU0299,cannot add to cart,Clear app data and retry,purchase
+TPU0300,multiple charges,Escalate to billing for reversal,purchase
+TPU0301,multiple charges,Escalate to billing for reversal,purchase
+TPU0302,payment declined,Check card info and retry,purchase
+TPU0303,payment declined,Check card info and retry,purchase
+TPU0304,payment declined,Check card info and retry,purchase
+TPU0305,cannot add to cart,Clear app data and retry,purchase
+TPU0306,payment declined,Check card info and retry,purchase
+TPU0307,payment declined,Check card info and retry,purchase
+TPU0308,payment declined,Check card info and retry,purchase
+TPU0309,invoice not received,Email invoice copy to customer,purchase
+TPU0310,invoice not received,Email invoice copy to customer,purchase
+TPU0311,multiple charges,Escalate to billing for reversal,purchase
+TPU0312,payment declined,Check card info and retry,purchase
+TPU0313,cannot add to cart,Clear app data and retry,purchase
+TPU0314,multiple charges,Escalate to billing for reversal,purchase
+TPU0315,cannot add to cart,Clear app data and retry,purchase
+TPU0316,payment declined,Check card info and retry,purchase
+TPU0317,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0318,invoice not received,Email invoice copy to customer,purchase
+TPU0319,multiple charges,Escalate to billing for reversal,purchase
+TPU0320,cannot add to cart,Clear app data and retry,purchase
+TPU0321,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0322,cannot add to cart,Clear app data and retry,purchase
+TPU0323,payment declined,Check card info and retry,purchase
+TPU0324,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0325,invoice not received,Email invoice copy to customer,purchase
+TPU0326,payment declined,Check card info and retry,purchase
+TPU0327,payment declined,Check card info and retry,purchase
+TPU0328,payment declined,Check card info and retry,purchase
+TPU0329,invoice not received,Email invoice copy to customer,purchase
+TPU0330,cannot add to cart,Clear app data and retry,purchase
+TPU0331,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0332,multiple charges,Escalate to billing for reversal,purchase
+TPU0333,invoice not received,Email invoice copy to customer,purchase
+TPU0334,invoice not received,Email invoice copy to customer,purchase
+TPU0335,payment declined,Check card info and retry,purchase
+TPU0336,invoice not received,Email invoice copy to customer,purchase
+TPU0337,multiple charges,Escalate to billing for reversal,purchase
+TPU0338,invoice not received,Email invoice copy to customer,purchase
+TPU0339,invoice not received,Email invoice copy to customer,purchase
+TPU0340,multiple charges,Escalate to billing for reversal,purchase
+TPU0341,payment declined,Check card info and retry,purchase
+TPU0342,multiple charges,Escalate to billing for reversal,purchase
+TPU0343,invoice not received,Email invoice copy to customer,purchase
+TPU0344,cannot add to cart,Clear app data and retry,purchase
+TPU0345,multiple charges,Escalate to billing for reversal,purchase
+TPU0346,cannot add to cart,Clear app data and retry,purchase
+TPU0347,payment declined,Check card info and retry,purchase
+TPU0348,multiple charges,Escalate to billing for reversal,purchase
+TPU0349,multiple charges,Escalate to billing for reversal,purchase
+TPU0350,cannot add to cart,Clear app data and retry,purchase
+TPU0351,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0352,multiple charges,Escalate to billing for reversal,purchase
+TPU0353,multiple charges,Escalate to billing for reversal,purchase
+TPU0354,cannot add to cart,Clear app data and retry,purchase
+TPU0355,multiple charges,Escalate to billing for reversal,purchase
+TPU0356,invoice not received,Email invoice copy to customer,purchase
+TPU0357,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0358,payment declined,Check card info and retry,purchase
+TPU0359,cannot add to cart,Clear app data and retry,purchase
+TPU0360,multiple charges,Escalate to billing for reversal,purchase
+TPU0361,payment declined,Check card info and retry,purchase
+TPU0362,multiple charges,Escalate to billing for reversal,purchase
+TPU0363,multiple charges,Escalate to billing for reversal,purchase
+TPU0364,multiple charges,Escalate to billing for reversal,purchase
+TPU0365,payment declined,Check card info and retry,purchase
+TPU0366,multiple charges,Escalate to billing for reversal,purchase
+TPU0367,cannot add to cart,Clear app data and retry,purchase
+TPU0368,payment declined,Check card info and retry,purchase
+TPU0369,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0370,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0371,multiple charges,Escalate to billing for reversal,purchase
+TPU0372,cannot add to cart,Clear app data and retry,purchase
+TPU0373,cannot add to cart,Clear app data and retry,purchase
+TPU0374,multiple charges,Escalate to billing for reversal,purchase
+TPU0375,invoice not received,Email invoice copy to customer,purchase
+TPU0376,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0377,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0378,payment declined,Check card info and retry,purchase
+TPU0379,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0380,payment declined,Check card info and retry,purchase
+TPU0381,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0382,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0383,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0384,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0385,multiple charges,Escalate to billing for reversal,purchase
+TPU0386,cannot add to cart,Clear app data and retry,purchase
+TPU0387,multiple charges,Escalate to billing for reversal,purchase
+TPU0388,payment declined,Check card info and retry,purchase
+TPU0389,cannot add to cart,Clear app data and retry,purchase
+TPU0390,payment declined,Check card info and retry,purchase
+TPU0391,cannot add to cart,Clear app data and retry,purchase
+TPU0392,multiple charges,Escalate to billing for reversal,purchase
+TPU0393,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0394,payment declined,Check card info and retry,purchase
+TPU0395,payment declined,Check card info and retry,purchase
+TPU0396,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0397,cannot add to cart,Clear app data and retry,purchase
+TPU0398,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0399,cannot add to cart,Clear app data and retry,purchase
+TPU0400,cannot add to cart,Clear app data and retry,purchase
+TPU0401,cannot add to cart,Clear app data and retry,purchase
+TPU0402,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0403,payment declined,Check card info and retry,purchase
+TPU0404,invoice not received,Email invoice copy to customer,purchase
+TPU0405,invoice not received,Email invoice copy to customer,purchase
+TPU0406,cannot add to cart,Clear app data and retry,purchase
+TPU0407,cannot add to cart,Clear app data and retry,purchase
+TPU0408,invoice not received,Email invoice copy to customer,purchase
+TPU0409,payment declined,Check card info and retry,purchase
+TPU0410,cannot add to cart,Clear app data and retry,purchase
+TPU0411,multiple charges,Escalate to billing for reversal,purchase
+TPU0412,payment declined,Check card info and retry,purchase
+TPU0413,multiple charges,Escalate to billing for reversal,purchase
+TPU0414,multiple charges,Escalate to billing for reversal,purchase
+TPU0415,multiple charges,Escalate to billing for reversal,purchase
+TPU0416,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0417,cannot add to cart,Clear app data and retry,purchase
+TPU0418,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0419,multiple charges,Escalate to billing for reversal,purchase
+TPU0420,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0421,cannot add to cart,Clear app data and retry,purchase
+TPU0422,cannot add to cart,Clear app data and retry,purchase
+TPU0423,multiple charges,Escalate to billing for reversal,purchase
+TPU0424,multiple charges,Escalate to billing for reversal,purchase
+TPU0425,invoice not received,Email invoice copy to customer,purchase
+TPU0426,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0427,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0428,multiple charges,Escalate to billing for reversal,purchase
+TPU0429,invoice not received,Email invoice copy to customer,purchase
+TPU0430,multiple charges,Escalate to billing for reversal,purchase
+TPU0431,invoice not received,Email invoice copy to customer,purchase
+TPU0432,payment declined,Check card info and retry,purchase
+TPU0433,invoice not received,Email invoice copy to customer,purchase
+TPU0434,payment declined,Check card info and retry,purchase
+TPU0435,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0436,payment declined,Check card info and retry,purchase
+TPU0437,payment declined,Check card info and retry,purchase
+TPU0438,multiple charges,Escalate to billing for reversal,purchase
+TPU0439,multiple charges,Escalate to billing for reversal,purchase
+TPU0440,invoice not received,Email invoice copy to customer,purchase
+TPU0441,cannot add to cart,Clear app data and retry,purchase
+TPU0442,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0443,cannot add to cart,Clear app data and retry,purchase
+TPU0444,cannot add to cart,Clear app data and retry,purchase
+TPU0445,cannot add to cart,Clear app data and retry,purchase
+TPU0446,invoice not received,Email invoice copy to customer,purchase
+TPU0447,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0448,payment declined,Check card info and retry,purchase
+TPU0449,invoice not received,Email invoice copy to customer,purchase
+TPU0450,cannot add to cart,Clear app data and retry,purchase
+TPU0451,payment declined,Check card info and retry,purchase
+TPU0452,cannot add to cart,Clear app data and retry,purchase
+TPU0453,payment declined,Check card info and retry,purchase
+TPU0454,payment declined,Check card info and retry,purchase
+TPU0455,invoice not received,Email invoice copy to customer,purchase
+TPU0456,multiple charges,Escalate to billing for reversal,purchase
+TPU0457,payment declined,Check card info and retry,purchase
+TPU0458,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0459,payment declined,Check card info and retry,purchase
+TPU0460,cannot add to cart,Clear app data and retry,purchase
+TPU0461,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0462,payment declined,Check card info and retry,purchase
+TPU0463,payment declined,Check card info and retry,purchase
+TPU0464,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0465,payment declined,Check card info and retry,purchase
+TPU0466,invoice not received,Email invoice copy to customer,purchase
+TPU0467,payment declined,Check card info and retry,purchase
+TPU0468,payment declined,Check card info and retry,purchase
+TPU0469,multiple charges,Escalate to billing for reversal,purchase
+TPU0470,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0471,multiple charges,Escalate to billing for reversal,purchase
+TPU0472,cannot add to cart,Clear app data and retry,purchase
+TPU0473,multiple charges,Escalate to billing for reversal,purchase
+TPU0474,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0475,invoice not received,Email invoice copy to customer,purchase
+TPU0476,payment declined,Check card info and retry,purchase
+TPU0477,cannot add to cart,Clear app data and retry,purchase
+TPU0478,invoice not received,Email invoice copy to customer,purchase
+TPU0479,invoice not received,Email invoice copy to customer,purchase
+TPU0480,payment declined,Check card info and retry,purchase
+TPU0481,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0482,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0483,invoice not received,Email invoice copy to customer,purchase
+TPU0484,multiple charges,Escalate to billing for reversal,purchase
+TPU0485,invoice not received,Email invoice copy to customer,purchase
+TPU0486,invoice not received,Email invoice copy to customer,purchase
+TPU0487,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0488,invoice not received,Email invoice copy to customer,purchase
+TPU0489,cannot add to cart,Clear app data and retry,purchase
+TPU0490,invoice not received,Email invoice copy to customer,purchase
+TPU0491,cannot add to cart,Clear app data and retry,purchase
+TPU0492,invoice not received,Email invoice copy to customer,purchase
+TPU0493,invoice not received,Email invoice copy to customer,purchase
+TPU0494,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0495,cannot add to cart,Clear app data and retry,purchase
+TPU0496,payment declined,Check card info and retry,purchase
+TPU0497,cannot add to cart,Clear app data and retry,purchase
+TPU0498,gift wrap missing,Arrange delivery with proper packaging,purchase
+TPU0499,multiple charges,Escalate to billing for reversal,purchase
+TPU0500,cannot add to cart,Clear app data and retry,purchase

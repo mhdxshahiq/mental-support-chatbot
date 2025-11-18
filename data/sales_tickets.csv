@@ -1,0 +1,501 @@
+ticket_id,issue,solution,department
+TSA0001,wishlist not saving,Update app and retry,sales
+TSA0002,bulk order query,Assist with large order process,sales
+TSA0003,wishlist not saving,Update app and retry,sales
+TSA0004,wishlist not saving,Update app and retry,sales
+TSA0005,wishlist not saving,Update app and retry,sales
+TSA0006,price mismatch,Explain pricing differences,sales
+TSA0007,price mismatch,Explain pricing differences,sales
+TSA0008,discount code not working,Verify code validity,sales
+TSA0009,bulk order query,Assist with large order process,sales
+TSA0010,wishlist not saving,Update app and retry,sales
+TSA0011,promotion not applied,Check qualification for promotion,sales
+TSA0012,promotion not applied,Check qualification for promotion,sales
+TSA0013,wishlist not saving,Update app and retry,sales
+TSA0014,promotion not applied,Check qualification for promotion,sales
+TSA0015,price mismatch,Explain pricing differences,sales
+TSA0016,bulk order query,Assist with large order process,sales
+TSA0017,price mismatch,Explain pricing differences,sales
+TSA0018,bulk order query,Assist with large order process,sales
+TSA0019,discount code not working,Verify code validity,sales
+TSA0020,wishlist not saving,Update app and retry,sales
+TSA0021,price mismatch,Explain pricing differences,sales
+TSA0022,price mismatch,Explain pricing differences,sales
+TSA0023,promotion not applied,Check qualification for promotion,sales
+TSA0024,promotion not applied,Check qualification for promotion,sales
+TSA0025,wishlist not saving,Update app and retry,sales
+TSA0026,wishlist not saving,Update app and retry,sales
+TSA0027,price mismatch,Explain pricing differences,sales
+TSA0028,bulk order query,Assist with large order process,sales
+TSA0029,price mismatch,Explain pricing differences,sales
+TSA0030,price mismatch,Explain pricing differences,sales
+TSA0031,promotion not applied,Check qualification for promotion,sales
+TSA0032,bulk order query,Assist with large order process,sales
+TSA0033,promotion not applied,Check qualification for promotion,sales
+TSA0034,wishlist not saving,Update app and retry,sales
+TSA0035,wishlist not saving,Update app and retry,sales
+TSA0036,promotion not applied,Check qualification for promotion,sales
+TSA0037,discount code not working,Verify code validity,sales
+TSA0038,price mismatch,Explain pricing differences,sales
+TSA0039,wishlist not saving,Update app and retry,sales
+TSA0040,wishlist not saving,Update app and retry,sales
+TSA0041,bulk order query,Assist with large order process,sales
+TSA0042,wishlist not saving,Update app and retry,sales
+TSA0043,bulk order query,Assist with large order process,sales
+TSA0044,bulk order query,Assist with large order process,sales
+TSA0045,price mismatch,Explain pricing differences,sales
+TSA0046,price mismatch,Explain pricing differences,sales
+TSA0047,wishlist not saving,Update app and retry,sales
+TSA0048,wishlist not saving,Update app and retry,sales
+TSA0049,discount code not working,Verify code validity,sales
+TSA0050,wishlist not saving,Update app and retry,sales
+TSA0051,discount code not working,Verify code validity,sales
+TSA0052,discount code not working,Verify code validity,sales
+TSA0053,price mismatch,Explain pricing differences,sales
+TSA0054,discount code not working,Verify code validity,sales
+TSA0055,discount code not working,Verify code validity,sales
+TSA0056,bulk order query,Assist with large order process,sales
+TSA0057,discount code not working,Verify code validity,sales
+TSA0058,price mismatch,Explain pricing differences,sales
+TSA0059,price mismatch,Explain pricing differences,sales
+TSA0060,bulk order query,Assist with large order process,sales
+TSA0061,discount code not working,Verify code validity,sales
+TSA0062,wishlist not saving,Update app and retry,sales
+TSA0063,promotion not applied,Check qualification for promotion,sales
+TSA0064,promotion not applied,Check qualification for promotion,sales
+TSA0065,discount code not working,Verify code validity,sales
+TSA0066,promotion not applied,Check qualification for promotion,sales
+TSA0067,wishlist not saving,Update app and retry,sales
+TSA0068,wishlist not saving,Update app and retry,sales
+TSA0069,price mismatch,Explain pricing differences,sales
+TSA0070,wishlist not saving,Update app and retry,sales
+TSA0071,promotion not applied,Check qualification for promotion,sales
+TSA0072,discount code not working,Verify code validity,sales
+TSA0073,bulk order query,Assist with large order process,sales
+TSA0074,promotion not applied,Check qualification for promotion,sales
+TSA0075,wishlist not saving,Update app and retry,sales
+TSA0076,discount code not working,Verify code validity,sales
+TSA0077,wishlist not saving,Update app and retry,sales
+TSA0078,bulk order query,Assist with large order process,sales
+TSA0079,wishlist not saving,Update app and retry,sales
+TSA0080,price mismatch,Explain pricing differences,sales
+TSA0081,wishlist not saving,Update app and retry,sales
+TSA0082,wishlist not saving,Update app and retry,sales
+TSA0083,promotion not applied,Check qualification for promotion,sales
+TSA0084,discount code not working,Verify code validity,sales
+TSA0085,discount code not working,Verify code validity,sales
+TSA0086,wishlist not saving,Update app and retry,sales
+TSA0087,discount code not working,Verify code validity,sales
+TSA0088,bulk order query,Assist with large order process,sales
+TSA0089,promotion not applied,Check qualification for promotion,sales
+TSA0090,wishlist not saving,Update app and retry,sales
+TSA0091,discount code not working,Verify code validity,sales
+TSA0092,price mismatch,Explain pricing differences,sales
+TSA0093,bulk order query,Assist with large order process,sales
+TSA0094,wishlist not saving,Update app and retry,sales
+TSA0095,promotion not applied,Check qualification for promotion,sales
+TSA0096,bulk order query,Assist with large order process,sales
+TSA0097,discount code not working,Verify code validity,sales
+TSA0098,discount code not working,Verify code validity,sales
+TSA0099,wishlist not saving,Update app and retry,sales
+TSA0100,price mismatch,Explain pricing differences,sales
+TSA0101,price mismatch,Explain pricing differences,sales
+TSA0102,price mismatch,Explain pricing differences,sales
+TSA0103,promotion not applied,Check qualification for promotion,sales
+TSA0104,wishlist not saving,Update app and retry,sales
+TSA0105,wishlist not saving,Update app and retry,sales
+TSA0106,promotion not applied,Check qualification for promotion,sales
+TSA0107,promotion not applied,Check qualification for promotion,sales
+TSA0108,price mismatch,Explain pricing differences,sales
+TSA0109,bulk order query,Assist with large order process,sales
+TSA0110,wishlist not saving,Update app and retry,sales
+TSA0111,bulk order query,Assist with large order process,sales
+TSA0112,discount code not working,Verify code validity,sales
+TSA0113,bulk order query,Assist with large order process,sales
+TSA0114,wishlist not saving,Update app and retry,sales
+TSA0115,promotion not applied,Check qualification for promotion,sales
+TSA0116,price mismatch,Explain pricing differences,sales
+TSA0117,bulk order query,Assist with large order process,sales
+TSA0118,wishlist not saving,Update app and retry,sales
+TSA0119,promotion not applied,Check qualification for promotion,sales
+TSA0120,wishlist not saving,Update app and retry,sales
+TSA0121,discount code not working,Verify code validity,sales
+TSA0122,discount code not working,Verify code validity,sales
+TSA0123,wishlist not saving,Update app and retry,sales
+TSA0124,promotion not applied,Check qualification for promotion,sales
+TSA0125,wishlist not saving,Update app and retry,sales
+TSA0126,promotion not applied,Check qualification for promotion,sales
+TSA0127,price mismatch,Explain pricing differences,sales
+TSA0128,discount code not working,Verify code validity,sales
+TSA0129,wishlist not saving,Update app and retry,sales
+TSA0130,wishlist not saving,Update app and retry,sales
+TSA0131,bulk order query,Assist with large order process,sales
+TSA0132,promotion not applied,Check qualification for promotion,sales
+TSA0133,discount code not working,Verify code validity,sales
+TSA0134,price mismatch,Explain pricing differences,sales
+TSA0135,bulk order query,Assist with large order process,sales
+TSA0136,price mismatch,Explain pricing differences,sales
+TSA0137,wishlist not saving,Update app and retry,sales
+TSA0138,wishlist not saving,Update app and retry,sales
+TSA0139,wishlist not saving,Update app and retry,sales
+TSA0140,promotion not applied,Check qualification for promotion,sales
+TSA0141,price mismatch,Explain pricing differences,sales
+TSA0142,wishlist not saving,Update app and retry,sales
+TSA0143,promotion not applied,Check qualification for promotion,sales
+TSA0144,promotion not applied,Check qualification for promotion,sales
+TSA0145,promotion not applied,Check qualification for promotion,sales
+TSA0146,discount code not working,Verify code validity,sales
+TSA0147,promotion not applied,Check qualification for promotion,sales
+TSA0148,promotion not applied,Check qualification for promotion,sales
+TSA0149,promotion not applied,Check qualification for promotion,sales
+TSA0150,price mismatch,Explain pricing differences,sales
+TSA0151,wishlist not saving,Update app and retry,sales
+TSA0152,promotion not applied,Check qualification for promotion,sales
+TSA0153,wishlist not saving,Update app and retry,sales
+TSA0154,wishlist not saving,Update app and retry,sales
+TSA0155,discount code not working,Verify code validity,sales
+TSA0156,bulk order query,Assist with large order process,sales
+TSA0157,bulk order query,Assist with large order process,sales
+TSA0158,price mismatch,Explain pricing differences,sales
+TSA0159,wishlist not saving,Update app and retry,sales
+TSA0160,wishlist not saving,Update app and retry,sales
+TSA0161,wishlist not saving,Update app and retry,sales
+TSA0162,price mismatch,Explain pricing differences,sales
+TSA0163,promotion not applied,Check qualification for promotion,sales
+TSA0164,promotion not applied,Check qualification for promotion,sales
+TSA0165,bulk order query,Assist with large order process,sales
+TSA0166,price mismatch,Explain pricing differences,sales
+TSA0167,price mismatch,Explain pricing differences,sales
+TSA0168,bulk order query,Assist with large order process,sales
+TSA0169,wishlist not saving,Update app and retry,sales
+TSA0170,bulk order query,Assist with large order process,sales
+TSA0171,discount code not working,Verify code validity,sales
+TSA0172,discount code not working,Verify code validity,sales
+TSA0173,price mismatch,Explain pricing differences,sales
+TSA0174,promotion not applied,Check qualification for promotion,sales
+TSA0175,wishlist not saving,Update app and retry,sales
+TSA0176,promotion not applied,Check qualification for promotion,sales
+TSA0177,promotion not applied,Check qualification for promotion,sales
+TSA0178,wishlist not saving,Update app and retry,sales
+TSA0179,bulk order query,Assist with large order process,sales
+TSA0180,discount code not working,Verify code validity,sales
+TSA0181,discount code not working,Verify code validity,sales
+TSA0182,wishlist not saving,Update app and retry,sales
+TSA0183,promotion not applied,Check qualification for promotion,sales
+TSA0184,price mismatch,Explain pricing differences,sales
+TSA0185,bulk order query,Assist with large order process,sales
+TSA0186,promotion not applied,Check qualification for promotion,sales
+TSA0187,wishlist not saving,Update app and retry,sales
+TSA0188,promotion not applied,Check qualification for promotion,sales
+TSA0189,price mismatch,Explain pricing differences,sales
+TSA0190,bulk order query,Assist with large order process,sales
+TSA0191,wishlist not saving,Update app and retry,sales
+TSA0192,wishlist not saving,Update app and retry,sales
+TSA0193,wishlist not saving,Update app and retry,sales
+TSA0194,bulk order query,Assist with large order process,sales
+TSA0195,bulk order query,Assist with large order process,sales
+TSA0196,price mismatch,Explain pricing differences,sales
+TSA0197,wishlist not saving,Update app and retry,sales
+TSA0198,wishlist not saving,Update app and retry,sales
+TSA0199,discount code not working,Verify code validity,sales
+TSA0200,promotion not applied,Check qualification for promotion,sales
+TSA0201,price mismatch,Explain pricing differences,sales
+TSA0202,discount code not working,Verify code validity,sales
+TSA0203,discount code not working,Verify code validity,sales
+TSA0204,discount code not working,Verify code validity,sales
+TSA0205,bulk order query,Assist with large order process,sales
+TSA0206,bulk order query,Assist with large order process,sales
+TSA0207,promotion not applied,Check qualification for promotion,sales
+TSA0208,wishlist not saving,Update app and retry,sales
+TSA0209,price mismatch,Explain pricing differences,sales
+TSA0210,promotion not applied,Check qualification for promotion,sales
+TSA0211,bulk order query,Assist with large order process,sales
+TSA0212,discount code not working,Verify code validity,sales
+TSA0213,bulk order query,Assist with large order process,sales
+TSA0214,discount code not working,Verify code validity,sales
+TSA0215,bulk order query,Assist with large order process,sales
+TSA0216,wishlist not saving,Update app and retry,sales
+TSA0217,bulk order query,Assist with large order process,sales
+TSA0218,discount code not working,Verify code validity,sales
+TSA0219,bulk order query,Assist with large order process,sales
+TSA0220,bulk order query,Assist with large order process,sales
+TSA0221,promotion not applied,Check qualification for promotion,sales
+TSA0222,wishlist not saving,Update app and retry,sales
+TSA0223,price mismatch,Explain pricing differences,sales
+TSA0224,wishlist not saving,Update app and retry,sales
+TSA0225,price mismatch,Explain pricing differences,sales
+TSA0226,discount code not working,Verify code validity,sales
+TSA0227,bulk order query,Assist with large order process,sales
+TSA0228,promotion not applied,Check qualification for promotion,sales
+TSA0229,bulk order query,Assist with large order process,sales
+TSA0230,discount code not working,Verify code validity,sales
+TSA0231,bulk order query,Assist with large order process,sales
+TSA0232,price mismatch,Explain pricing differences,sales
+TSA0233,bulk order query,Assist with large order process,sales
+TSA0234,price mismatch,Explain pricing differences,sales
+TSA0235,discount code not working,Verify code validity,sales
+TSA0236,price mismatch,Explain pricing differences,sales
+TSA0237,promotion not applied,Check qualification for promotion,sales
+TSA0238,discount code not working,Verify code validity,sales
+TSA0239,wishlist not saving,Update app and retry,sales
+TSA0240,promotion not applied,Check qualification for promotion,sales
+TSA0241,discount code not working,Verify code validity,sales
+TSA0242,price mismatch,Explain pricing differences,sales
+TSA0243,bulk order query,Assist with large order process,sales
+TSA0244,promotion not applied,Check qualification for promotion,sales
+TSA0245,wishlist not saving,Update app and retry,sales
+TSA0246,discount code not working,Verify code validity,sales
+TSA0247,promotion not applied,Check qualification for promotion,sales
+TSA0248,discount code not working,Verify code validity,sales
+TSA0249,wishlist not saving,Update app and retry,sales
+TSA0250,discount code not working,Verify code validity,sales
+TSA0251,price mismatch,Explain pricing differences,sales
+TSA0252,bulk order query,Assist with large order process,sales
+TSA0253,bulk order query,Assist with large order process,sales
+TSA0254,promotion not applied,Check qualification for promotion,sales
+TSA0255,wishlist not saving,Update app and retry,sales
+TSA0256,wishlist not saving,Update app and retry,sales
+TSA0257,bulk order query,Assist with large order process,sales
+TSA0258,promotion not applied,Check qualification for promotion,sales
+TSA0259,wishlist not saving,Update app and retry,sales
+TSA0260,bulk order query,Assist with large order process,sales
+TSA0261,price mismatch,Explain pricing differences,sales
+TSA0262,bulk order query,Assist with large order process,sales
+TSA0263,promotion not applied,Check qualification for promotion,sales
+TSA0264,bulk order query,Assist with large order process,sales
+TSA0265,discount code not working,Verify code validity,sales
+TSA0266,bulk order query,Assist with large order process,sales
+TSA0267,wishlist not saving,Update app and retry,sales
+TSA0268,promotion not applied,Check qualification for promotion,sales
+TSA0269,wishlist not saving,Update app and retry,sales
+TSA0270,wishlist not saving,Update app and retry,sales
+TSA0271,promotion not applied,Check qualification for promotion,sales
+TSA0272,bulk order query,Assist with large order process,sales
+TSA0273,bulk order query,Assist with large order process,sales
+TSA0274,promotion not applied,Check qualification for promotion,sales
+TSA0275,bulk order query,Assist with large order process,sales
+TSA0276,bulk order query,Assist with large order process,sales
+TSA0277,bulk order query,Assist with large order process,sales
+TSA0278,bulk order query,Assist with large order process,sales
+TSA0279,discount code not working,Verify code validity,sales
+TSA0280,price mismatch,Explain pricing differences,sales
+TSA0281,discount code not working,Verify code validity,sales
+TSA0282,promotion not applied,Check qualification for promotion,sales
+TSA0283,wishlist not saving,Update app and retry,sales
+TSA0284,price mismatch,Explain pricing differences,sales
+TSA0285,promotion not applied,Check qualification for promotion,sales
+TSA0286,discount code not working,Verify code validity,sales
+TSA0287,wishlist not saving,Update app and retry,sales
+TSA0288,bulk order query,Assist with large order process,sales
+TSA0289,wishlist not saving,Update app and retry,sales
+TSA0290,discount code not working,Verify code validity,sales
+TSA0291,wishlist not saving,Update app and retry,sales
+TSA0292,price mismatch,Explain pricing differences,sales
+TSA0293,promotion not applied,Check qualification for promotion,sales
+TSA0294,promotion not applied,Check qualification for promotion,sales
+TSA0295,price mismatch,Explain pricing differences,sales
+TSA0296,wishlist not saving,Update app and retry,sales
+TSA0297,discount code not working,Verify code validity,sales
+TSA0298,bulk order query,Assist with large order process,sales
+TSA0299,promotion not applied,Check qualification for promotion,sales
+TSA0300,bulk order query,Assist with large order process,sales
+TSA0301,price mismatch,Explain pricing differences,sales
+TSA0302,wishlist not saving,Update app and retry,sales
+TSA0303,price mismatch,Explain pricing differences,sales
+TSA0304,bulk order query,Assist with large order process,sales
+TSA0305,price mismatch,Explain pricing differences,sales
+TSA0306,bulk order query,Assist with large order process,sales
+TSA0307,bulk order query,Assist with large order process,sales
+TSA0308,bulk order query,Assist with large order process,sales
+TSA0309,wishlist not saving,Update app and retry,sales
+TSA0310,discount code not working,Verify code validity,sales
+TSA0311,bulk order query,Assist with large order process,sales
+TSA0312,promotion not applied,Check qualification for promotion,sales
+TSA0313,wishlist not saving,Update app and retry,sales
+TSA0314,discount code not working,Verify code validity,sales
+TSA0315,discount code not working,Verify code validity,sales
+TSA0316,bulk order query,Assist with large order process,sales
+TSA0317,wishlist not saving,Update app and retry,sales
+TSA0318,price mismatch,Explain pricing differences,sales
+TSA0319,wishlist not saving,Update app and retry,sales
+TSA0320,wishlist not saving,Update app and retry,sales
+TSA0321,promotion not applied,Check qualification for promotion,sales
+TSA0322,price mismatch,Explain pricing differences,sales
+TSA0323,wishlist not saving,Update app and retry,sales
+TSA0324,promotion not applied,Check qualification for promotion,sales
+TSA0325,wishlist not saving,Update app and retry,sales
+TSA0326,promotion not applied,Check qualification for promotion,sales
+TSA0327,price mismatch,Explain pricing differences,sales
+TSA0328,wishlist not saving,Update app and retry,sales
+TSA0329,discount code not working,Verify code validity,sales
+TSA0330,promotion not applied,Check qualification for promotion,sales
+TSA0331,promotion not applied,Check qualification for promotion,sales
+TSA0332,wishlist not saving,Update app and retry,sales
+TSA0333,bulk order query,Assist with large order process,sales
+TSA0334,price mismatch,Explain pricing differences,sales
+TSA0335,promotion not applied,Check qualification for promotion,sales
+TSA0336,price mismatch,Explain pricing differences,sales
+TSA0337,promotion not applied,Check qualification for promotion,sales
+TSA0338,wishlist not saving,Update app and retry,sales
+TSA0339,discount code not working,Verify code validity,sales
+TSA0340,bulk order query,Assist with large order process,sales
+TSA0341,price mismatch,Explain pricing differences,sales
+TSA0342,discount code not working,Verify code validity,sales
+TSA0343,wishlist not saving,Update app and retry,sales
+TSA0344,wishlist not saving,Update app and retry,sales
+TSA0345,price mismatch,Explain pricing differences,sales
+TSA0346,price mismatch,Explain pricing differences,sales
+TSA0347,price mismatch,Explain pricing differences,sales
+TSA0348,discount code not working,Verify code validity,sales
+TSA0349,price mismatch,Explain pricing differences,sales
+TSA0350,discount code not working,Verify code validity,sales
+TSA0351,discount code not working,Verify code validity,sales
+TSA0352,promotion not applied,Check qualification for promotion,sales
+TSA0353,promotion not applied,Check qualification for promotion,sales
+TSA0354,bulk order query,Assist with large order process,sales
+TSA0355,price mismatch,Explain pricing differences,sales
+TSA0356,wishlist not saving,Update app and retry,sales
+TSA0357,bulk order query,Assist with large order process,sales
+TSA0358,price mismatch,Explain pricing differences,sales
+TSA0359,promotion not applied,Check qualification for promotion,sales
+TSA0360,discount code not working,Verify code validity,sales
+TSA0361,discount code not working,Verify code validity,sales
+TSA0362,discount code not working,Verify code validity,sales
+TSA0363,wishlist not saving,Update app and retry,sales
+TSA0364,wishlist not saving,Update app and retry,sales
+TSA0365,wishlist not saving,Update app and retry,sales
+TSA0366,promotion not applied,Check qualification for promotion,sales
+TSA0367,discount code not working,Verify code validity,sales
+TSA0368,discount code not working,Verify code validity,sales
+TSA0369,bulk order query,Assist with large order process,sales
+TSA0370,discount code not working,Verify code validity,sales
+TSA0371,wishlist not saving,Update app and retry,sales
+TSA0372,price mismatch,Explain pricing differences,sales
+TSA0373,promotion not applied,Check qualification for promotion,sales
+TSA0374,bulk order query,Assist with large order process,sales
+TSA0375,wishlist not saving,Update app and retry,sales
+TSA0376,wishlist not saving,Update app and retry,sales
+TSA0377,price mismatch,Explain pricing differences,sales
+TSA0378,wishlist not saving,Update app and retry,sales
+TSA0379,bulk order query,Assist with large order process,sales
+TSA0380,discount code not working,Verify code validity,sales
+TSA0381,promotion not applied,Check qualification for promotion,sales
+TSA0382,price mismatch,Explain pricing differences,sales
+TSA0383,promotion not applied,Check qualification for promotion,sales
+TSA0384,price mismatch,Explain pricing differences,sales
+TSA0385,promotion not applied,Check qualification for promotion,sales
+TSA0386,bulk order query,Assist with large order process,sales
+TSA0387,price mismatch,Explain pricing differences,sales
+TSA0388,wishlist not saving,Update app and retry,sales
+TSA0389,promotion not applied,Check qualification for promotion,sales
+TSA0390,discount code not working,Verify code validity,sales
+TSA0391,wishlist not saving,Update app and retry,sales
+TSA0392,promotion not applied,Check qualification for promotion,sales
+TSA0393,bulk order query,Assist with large order process,sales
+TSA0394,wishlist not saving,Update app and retry,sales
+TSA0395,wishlist not saving,Update app and retry,sales
+TSA0396,promotion not applied,Check qualification for promotion,sales
+TSA0397,promotion not applied,Check qualification for promotion,sales
+TSA0398,price mismatch,Explain pricing differences,sales
+TSA0399,price mismatch,Explain pricing differences,sales
+TSA0400,promotion not applied,Check qualification for promotion,sales
+TSA0401,discount code not working,Verify code validity,sales
+TSA0402,promotion not applied,Check qualification for promotion,sales
+TSA0403,discount code not working,Verify code validity,sales
+TSA0404,discount code not working,Verify code validity,sales
+TSA0405,wishlist not saving,Update app and retry,sales
+TSA0406,bulk order query,Assist with large order process,sales
+TSA0407,promotion not applied,Check qualification for promotion,sales
+TSA0408,wishlist not saving,Update app and retry,sales
+TSA0409,discount code not working,Verify code validity,sales
+TSA0410,bulk order query,Assist with large order process,sales
+TSA0411,wishlist not saving,Update app and retry,sales
+TSA0412,wishlist not saving,Update app and retry,sales
+TSA0413,price mismatch,Explain pricing differences,sales
+TSA0414,promotion not applied,Check qualification for promotion,sales
+TSA0415,price mismatch,Explain pricing differences,sales
+TSA0416,discount code not working,Verify code validity,sales
+TSA0417,discount code not working,Verify code validity,sales
+TSA0418,promotion not applied,Check qualification for promotion,sales
+TSA0419,promotion not applied,Check qualification for promotion,sales
+TSA0420,bulk order query,Assist with large order process,sales
+TSA0421,price mismatch,Explain pricing differences,sales
+TSA0422,wishlist not saving,Update app and retry,sales
+TSA0423,discount code not working,Verify code validity,sales
+TSA0424,price mismatch,Explain pricing differences,sales
+TSA0425,promotion not applied,Check qualification for promotion,sales
+TSA0426,promotion not applied,Check qualification for promotion,sales
+TSA0427,wishlist not saving,Update app and retry,sales
+TSA0428,discount code not working,Verify code validity,sales
+TSA0429,wishlist not saving,Update app and retry,sales
+TSA0430,wishlist not saving,Update app and retry,sales
+TSA0431,wishlist not saving,Update app and retry,sales
+TSA0432,bulk order query,Assist with large order process,sales
+TSA0433,discount code not working,Verify code validity,sales
+TSA0434,promotion not applied,Check qualification for promotion,sales
+TSA0435,promotion not applied,Check qualification for promotion,sales
+TSA0436,bulk order query,Assist with large order process,sales
+TSA0437,discount code not working,Verify code validity,sales
+TSA0438,wishlist not saving,Update app and retry,sales
+TSA0439,bulk order query,Assist with large order process,sales
+TSA0440,discount code not working,Verify code validity,sales
+TSA0441,price mismatch,Explain pricing differences,sales
+TSA0442,wishlist not saving,Update app and retry,sales
+TSA0443,price mismatch,Explain pricing differences,sales
+TSA0444,wishlist not saving,Update app and retry,sales
+TSA0445,promotion not applied,Check qualification for promotion,sales
+TSA0446,bulk order query,Assist with large order process,sales
+TSA0447,bulk order query,Assist with large order process,sales
+TSA0448,wishlist not saving,Update app and retry,sales
+TSA0449,discount code not working,Verify code validity,sales
+TSA0450,bulk order query,Assist with large order process,sales
+TSA0451,wishlist not saving,Update app and retry,sales
+TSA0452,bulk order query,Assist with large order process,sales
+TSA0453,discount code not working,Verify code validity,sales
+TSA0454,wishlist not saving,Update app and retry,sales
+TSA0455,price mismatch,Explain pricing differences,sales
+TSA0456,wishlist not saving,Update app and retry,sales
+TSA0457,wishlist not saving,Update app and retry,sales
+TSA0458,promotion not applied,Check qualification for promotion,sales
+TSA0459,discount code not working,Verify code validity,sales
+TSA0460,discount code not working,Verify code validity,sales
+TSA0461,discount code not working,Verify code validity,sales
+TSA0462,wishlist not saving,Update app and retry,sales
+TSA0463,promotion not applied,Check qualification for promotion,sales
+TSA0464,discount code not working,Verify code validity,sales
+TSA0465,bulk order query,Assist with large order process,sales
+TSA0466,wishlist not saving,Update app and retry,sales
+TSA0467,wishlist not saving,Update app and retry,sales
+TSA0468,wishlist not saving,Update app and retry,sales
+TSA0469,discount code not working,Verify code validity,sales
+TSA0470,price mismatch,Explain pricing differences,sales
+TSA0471,discount code not working,Verify code validity,sales
+TSA0472,discount code not working,Verify code validity,sales
+TSA0473,wishlist not saving,Update app and retry,sales
+TSA0474,bulk order query,Assist with large order process,sales
+TSA0475,promotion not applied,Check qualification for promotion,sales
+TSA0476,promotion not applied,Check qualification for promotion,sales
+TSA0477,promotion not applied,Check qualification for promotion,sales
+TSA0478,wishlist not saving,Update app and retry,sales
+TSA0479,promotion not applied,Check qualification for promotion,sales
+TSA0480,price mismatch,Explain pricing differences,sales
+TSA0481,bulk order query,Assist with large order process,sales
+TSA0482,price mismatch,Explain pricing differences,sales
+TSA0483,promotion not applied,Check qualification for promotion,sales
+TSA0484,discount code not working,Verify code validity,sales
+TSA0485,price mismatch,Explain pricing differences,sales
+TSA0486,discount code not working,Verify code validity,sales
+TSA0487,discount code not working,Verify code validity,sales
+TSA0488,price mismatch,Explain pricing differences,sales
+TSA0489,price mismatch,Explain pricing differences,sales
+TSA0490,wishlist not saving,Update app and retry,sales
+TSA0491,wishlist not saving,Update app and retry,sales
+TSA0492,wishlist not saving,Update app and retry,sales
+TSA0493,price mismatch,Explain pricing differences,sales
+TSA0494,price mismatch,Explain pricing differences,sales
+TSA0495,price mismatch,Explain pricing differences,sales
+TSA0496,price mismatch,Explain pricing differences,sales
+TSA0497,promotion not applied,Check qualification for promotion,sales
+TSA0498,price mismatch,Explain pricing differences,sales
+TSA0499,wishlist not saving,Update app and retry,sales
+TSA0500,price mismatch,Explain pricing differences,sales

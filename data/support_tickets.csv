@@ -1,0 +1,501 @@
+ticket_id,issue,solution,department
+TSU0001,delivery wrong address,Initiate address correction,support
+TSU0002,defective product,Guide on returns/replacement,support
+TSU0003,order not received,Track order and update ETA,support
+TSU0004,defective product,Guide on returns/replacement,support
+TSU0005,defective product,Guide on returns/replacement,support
+TSU0006,customer request callback,Schedule support callback,support
+TSU0007,order not received,Track order and update ETA,support
+TSU0008,order not received,Track order and update ETA,support
+TSU0009,refund delayed,Check refund status with payments team,support
+TSU0010,customer request callback,Schedule support callback,support
+TSU0011,order not received,Track order and update ETA,support
+TSU0012,customer request callback,Schedule support callback,support
+TSU0013,order not received,Track order and update ETA,support
+TSU0014,refund delayed,Check refund status with payments team,support
+TSU0015,delivery wrong address,Initiate address correction,support
+TSU0016,delivery wrong address,Initiate address correction,support
+TSU0017,delivery wrong address,Initiate address correction,support
+TSU0018,refund delayed,Check refund status with payments team,support
+TSU0019,order not received,Track order and update ETA,support
+TSU0020,refund delayed,Check refund status with payments team,support
+TSU0021,order not received,Track order and update ETA,support
+TSU0022,delivery wrong address,Initiate address correction,support
+TSU0023,order not received,Track order and update ETA,support
+TSU0024,defective product,Guide on returns/replacement,support
+TSU0025,customer request callback,Schedule support callback,support
+TSU0026,defective product,Guide on returns/replacement,support
+TSU0027,delivery wrong address,Initiate address correction,support
+TSU0028,customer request callback,Schedule support callback,support
+TSU0029,order not received,Track order and update ETA,support
+TSU0030,defective product,Guide on returns/replacement,support
+TSU0031,order not received,Track order and update ETA,support
+TSU0032,order not received,Track order and update ETA,support
+TSU0033,delivery wrong address,Initiate address correction,support
+TSU0034,refund delayed,Check refund status with payments team,support
+TSU0035,refund delayed,Check refund status with payments team,support
+TSU0036,order not received,Track order and update ETA,support
+TSU0037,order not received,Track order and update ETA,support
+TSU0038,order not received,Track order and update ETA,support
+TSU0039,customer request callback,Schedule support callback,support
+TSU0040,defective product,Guide on returns/replacement,support
+TSU0041,customer request callback,Schedule support callback,support
+TSU0042,defective product,Guide on returns/replacement,support
+TSU0043,delivery wrong address,Initiate address correction,support
+TSU0044,customer request callback,Schedule support callback,support
+TSU0045,defective product,Guide on returns/replacement,support
+TSU0046,refund delayed,Check refund status with payments team,support
+TSU0047,defective product,Guide on returns/replacement,support
+TSU0048,refund delayed,Check refund status with payments team,support
+TSU0049,order not received,Track order and update ETA,support
+TSU0050,customer request callback,Schedule support callback,support
+TSU0051,order not received,Track order and update ETA,support
+TSU0052,customer request callback,Schedule support callback,support
+TSU0053,order not received,Track order and update ETA,support
+TSU0054,refund delayed,Check refund status with payments team,support
+TSU0055,order not received,Track order and update ETA,support
+TSU0056,defective product,Guide on returns/replacement,support
+TSU0057,refund delayed,Check refund status with payments team,support
+TSU0058,delivery wrong address,Initiate address correction,support
+TSU0059,delivery wrong address,Initiate address correction,support
+TSU0060,customer request callback,Schedule support callback,support
+TSU0061,delivery wrong address,Initiate address correction,support
+TSU0062,defective product,Guide on returns/replacement,support
+TSU0063,customer request callback,Schedule support callback,support
+TSU0064,refund delayed,Check refund status with payments team,support
+TSU0065,customer request callback,Schedule support callback,support
+TSU0066,defective product,Guide on returns/replacement,support
+TSU0067,customer request callback,Schedule support callback,support
+TSU0068,refund delayed,Check refund status with payments team,support
+TSU0069,customer request callback,Schedule support callback,support
+TSU0070,customer request callback,Schedule support callback,support
+TSU0071,order not received,Track order and update ETA,support
+TSU0072,order not received,Track order and update ETA,support
+TSU0073,customer request callback,Schedule support callback,support
+TSU0074,customer request callback,Schedule support callback,support
+TSU0075,refund delayed,Check refund status with payments team,support
+TSU0076,refund delayed,Check refund status with payments team,support
+TSU0077,refund delayed,Check refund status with payments team,support
+TSU0078,customer request callback,Schedule support callback,support
+TSU0079,refund delayed,Check refund status with payments team,support
+TSU0080,defective product,Guide on returns/replacement,support
+TSU0081,customer request callback,Schedule support callback,support
+TSU0082,defective product,Guide on returns/replacement,support
+TSU0083,order not received,Track order and update ETA,support
+TSU0084,customer request callback,Schedule support callback,support
+TSU0085,order not received,Track order and update ETA,support
+TSU0086,refund delayed,Check refund status with payments team,support
+TSU0087,defective product,Guide on returns/replacement,support
+TSU0088,customer request callback,Schedule support callback,support
+TSU0089,delivery wrong address,Initiate address correction,support
+TSU0090,refund delayed,Check refund status with payments team,support
+TSU0091,customer request callback,Schedule support callback,support
+TSU0092,defective product,Guide on returns/replacement,support
+TSU0093,order not received,Track order and update ETA,support
+TSU0094,refund delayed,Check refund status with payments team,support
+TSU0095,customer request callback,Schedule support callback,support
+TSU0096,customer request callback,Schedule support callback,support
+TSU0097,refund delayed,Check refund status with payments team,support
+TSU0098,delivery wrong address,Initiate address correction,support
+TSU0099,customer request callback,Schedule support callback,support
+TSU0100,refund delayed,Check refund status with payments team,support
+TSU0101,defective product,Guide on returns/replacement,support
+TSU0102,customer request callback,Schedule support callback,support
+TSU0103,delivery wrong address,Initiate address correction,support
+TSU0104,customer request callback,Schedule support callback,support
+TSU0105,delivery wrong address,Initiate address correction,support
+TSU0106,defective product,Guide on returns/replacement,support
+TSU0107,delivery wrong address,Initiate address correction,support
+TSU0108,delivery wrong address,Initiate address correction,support
+TSU0109,order not received,Track order and update ETA,support
+TSU0110,defective product,Guide on returns/replacement,support
+TSU0111,refund delayed,Check refund status with payments team,support
+TSU0112,order not received,Track order and update ETA,support
+TSU0113,order not received,Track order and update ETA,support
+TSU0114,customer request callback,Schedule support callback,support
+TSU0115,delivery wrong address,Initiate address correction,support
+TSU0116,customer request callback,Schedule support callback,support
+TSU0117,refund delayed,Check refund status with payments team,support
+TSU0118,refund delayed,Check refund status with payments team,support
+TSU0119,order not received,Track order and update ETA,support
+TSU0120,refund delayed,Check refund status with payments team,support
+TSU0121,defective product,Guide on returns/replacement,support
+TSU0122,refund delayed,Check refund status with payments team,support
+TSU0123,customer request callback,Schedule support callback,support
+TSU0124,refund delayed,Check refund status with payments team,support
+TSU0125,order not received,Track order and update ETA,support
+TSU0126,refund delayed,Check refund status with payments team,support
+TSU0127,defective product,Guide on returns/replacement,support
+TSU0128,delivery wrong address,Initiate address correction,support
+TSU0129,customer request callback,Schedule support callback,support
+TSU0130,refund delayed,Check refund status with payments team,support
+TSU0131,order not received,Track order and update ETA,support
+TSU0132,refund delayed,Check refund status with payments team,support
+TSU0133,delivery wrong address,Initiate address correction,support
+TSU0134,customer request callback,Schedule support callback,support
+TSU0135,customer request callback,Schedule support callback,support
+TSU0136,order not received,Track order and update ETA,support
+TSU0137,customer request callback,Schedule support callback,support
+TSU0138,defective product,Guide on returns/replacement,support
+TSU0139,customer request callback,Schedule support callback,support
+TSU0140,refund delayed,Check refund status with payments team,support
+TSU0141,delivery wrong address,Initiate address correction,support
+TSU0142,customer request callback,Schedule support callback,support
+TSU0143,refund delayed,Check refund status with payments team,support
+TSU0144,customer request callback,Schedule support callback,support
+TSU0145,order not received,Track order and update ETA,support
+TSU0146,customer request callback,Schedule support callback,support
+TSU0147,delivery wrong address,Initiate address correction,support
+TSU0148,defective product,Guide on returns/replacement,support
+TSU0149,order not received,Track order and update ETA,support
+TSU0150,refund delayed,Check refund status with payments team,support
+TSU0151,delivery wrong address,Initiate address correction,support
+TSU0152,delivery wrong address,Initiate address correction,support
+TSU0153,order not received,Track order and update ETA,support
+TSU0154,order not received,Track order and update ETA,support
+TSU0155,defective product,Guide on returns/replacement,support
+TSU0156,order not received,Track order and update ETA,support
+TSU0157,order not received,Track order and update ETA,support
+TSU0158,delivery wrong address,Initiate address correction,support
+TSU0159,customer request callback,Schedule support callback,support
+TSU0160,refund delayed,Check refund status with payments team,support
+TSU0161,defective product,Guide on returns/replacement,support
+TSU0162,order not received,Track order and update ETA,support
+TSU0163,refund delayed,Check refund status with payments team,support
+TSU0164,defective product,Guide on returns/replacement,support
+TSU0165,delivery wrong address,Initiate address correction,support
+TSU0166,customer request callback,Schedule support callback,support
+TSU0167,order not received,Track order and update ETA,support
+TSU0168,refund delayed,Check refund status with payments team,support
+TSU0169,refund delayed,Check refund status with payments team,support
+TSU0170,delivery wrong address,Initiate address correction,support
+TSU0171,customer request callback,Schedule support callback,support
+TSU0172,delivery wrong address,Initiate address correction,support
+TSU0173,customer request callback,Schedule support callback,support
+TSU0174,delivery wrong address,Initiate address correction,support
+TSU0175,customer request callback,Schedule support callback,support
+TSU0176,customer request callback,Schedule support callback,support
+TSU0177,refund delayed,Check refund status with payments team,support
+TSU0178,refund delayed,Check refund status with payments team,support
+TSU0179,delivery wrong address,Initiate address correction,support
+TSU0180,delivery wrong address,Initiate address correction,support
+TSU0181,order not received,Track order and update ETA,support
+TSU0182,defective product,Guide on returns/replacement,support
+TSU0183,refund delayed,Check refund status with payments team,support
+TSU0184,defective product,Guide on returns/replacement,support
+TSU0185,refund delayed,Check refund status with payments team,support
+TSU0186,customer request callback,Schedule support callback,support
+TSU0187,order not received,Track order and update ETA,support
+TSU0188,refund delayed,Check refund status with payments team,support
+TSU0189,refund delayed,Check refund status with payments team,support
+TSU0190,order not received,Track order and update ETA,support
+TSU0191,defective product,Guide on returns/replacement,support
+TSU0192,refund delayed,Check refund status with payments team,support
+TSU0193,delivery wrong address,Initiate address correction,support
+TSU0194,defective product,Guide on returns/replacement,support
+TSU0195,delivery wrong address,Initiate address correction,support
+TSU0196,refund delayed,Check refund status with payments team,support
+TSU0197,refund delayed,Check refund status with payments team,support
+TSU0198,order not received,Track order and update ETA,support
+TSU0199,customer request callback,Schedule support callback,support
+TSU0200,delivery wrong address,Initiate address correction,support
+TSU0201,order not received,Track order and update ETA,support
+TSU0202,customer request callback,Schedule support callback,support
+TSU0203,refund delayed,Check refund status with payments team,support
+TSU0204,customer request callback,Schedule support callback,support
+TSU0205,order not received,Track order and update ETA,support
+TSU0206,defective product,Guide on returns/replacement,support
+TSU0207,delivery wrong address,Initiate address correction,support
+TSU0208,refund delayed,Check refund status with payments team,support
+TSU0209,defective product,Guide on returns/replacement,support
+TSU0210,order not received,Track order and update ETA,support
+TSU0211,order not received,Track order and update ETA,support
+TSU0212,order not received,Track order and update ETA,support
+TSU0213,refund delayed,Check refund status with payments team,support
+TSU0214,delivery wrong address,Initiate address correction,support
+TSU0215,customer request callback,Schedule support callback,support
+TSU0216,delivery wrong address,Initiate address correction,support
+TSU0217,defective product,Guide on returns/replacement,support
+TSU0218,customer request callback,Schedule support callback,support
+TSU0219,defective product,Guide on returns/replacement,support
+TSU0220,order not received,Track order and update ETA,support
+TSU0221,delivery wrong address,Initiate address correction,support
+TSU0222,customer request callback,Schedule support callback,support
+TSU0223,defective product,Guide on returns/replacement,support
+TSU0224,defective product,Guide on returns/replacement,support
+TSU0225,defective product,Guide on returns/replacement,support
+TSU0226,customer request callback,Schedule support callback,support
+TSU0227,delivery wrong address,Initiate address correction,support
+TSU0228,delivery wrong address,Initiate address correction,support
+TSU0229,order not received,Track order and update ETA,support
+TSU0230,delivery wrong address,Initiate address correction,support
+TSU0231,delivery wrong address,Initiate address correction,support
+TSU0232,delivery wrong address,Initiate address correction,support
+TSU0233,customer request callback,Schedule support callback,support
+TSU0234,order not received,Track order and update ETA,support
+TSU0235,defective product,Guide on returns/replacement,support
+TSU0236,refund delayed,Check refund status with payments team,support
+TSU0237,delivery wrong address,Initiate address correction,support
+TSU0238,defective product,Guide on returns/replacement,support
+TSU0239,refund delayed,Check refund status with payments team,support
+TSU0240,refund delayed,Check refund status with payments team,support
+TSU0241,refund delayed,Check refund status with payments team,support
+TSU0242,customer request callback,Schedule support callback,support
+TSU0243,refund delayed,Check refund status with payments team,support
+TSU0244,delivery wrong address,Initiate address correction,support
+TSU0245,refund delayed,Check refund status with payments team,support
+TSU0246,defective product,Guide on returns/replacement,support
+TSU0247,defective product,Guide on returns/replacement,support
+TSU0248,delivery wrong address,Initiate address correction,support
+TSU0249,customer request callback,Schedule support callback,support
+TSU0250,defective product,Guide on returns/replacement,support
+TSU0251,order not received,Track order and update ETA,support
+TSU0252,customer request callback,Schedule support callback,support
+TSU0253,refund delayed,Check refund status with payments team,support
+TSU0254,delivery wrong address,Initiate address correction,support
+TSU0255,delivery wrong address,Initiate address correction,support
+TSU0256,delivery wrong address,Initiate address correction,support
+TSU0257,defective product,Guide on returns/replacement,support
+TSU0258,order not received,Track order and update ETA,support
+TSU0259,refund delayed,Check refund status with payments team,support
+TSU0260,customer request callback,Schedule support callback,support
+TSU0261,defective product,Guide on returns/replacement,support
+TSU0262,order not received,Track order and update ETA,support
+TSU0263,refund delayed,Check refund status with payments team,support
+TSU0264,refund delayed,Check refund status with payments team,support
+TSU0265,customer request callback,Schedule support callback,support
+TSU0266,order not received,Track order and update ETA,support
+TSU0267,customer request callback,Schedule support callback,support
+TSU0268,delivery wrong address,Initiate address correction,support
+TSU0269,customer request callback,Schedule support callback,support
+TSU0270,customer request callback,Schedule support callback,support
+TSU0271,customer request callback,Schedule support callback,support
+TSU0272,order not received,Track order and update ETA,support
+TSU0273,order not received,Track order and update ETA,support
+TSU0274,delivery wrong address,Initiate address correction,support
+TSU0275,delivery wrong address,Initiate address correction,support
+TSU0276,customer request callback,Schedule support callback,support
+TSU0277,delivery wrong address,Initiate address correction,support
+TSU0278,delivery wrong address,Initiate address correction,support
+TSU0279,refund delayed,Check refund status with payments team,support
+TSU0280,defective product,Guide on returns/replacement,support
+TSU0281,customer request callback,Schedule support callback,support
+TSU0282,defective product,Guide on returns/replacement,support
+TSU0283,defective product,Guide on returns/replacement,support
+TSU0284,delivery wrong address,Initiate address correction,support
+TSU0285,customer request callback,Schedule support callback,support
+TSU0286,refund delayed,Check refund status with payments team,support
+TSU0287,delivery wrong address,Initiate address correction,support
+TSU0288,defective product,Guide on returns/replacement,support
+TSU0289,refund delayed,Check refund status with payments team,support
+TSU0290,order not received,Track order and update ETA,support
+TSU0291,order not received,Track order and update ETA,support
+TSU0292,order not received,Track order and update ETA,support
+TSU0293,order not received,Track order and update ETA,support
+TSU0294,refund delayed,Check refund status with payments team,support
+TSU0295,defective product,Guide on returns/replacement,support
+TSU0296,defective product,Guide on returns/replacement,support
+TSU0297,order not received,Track order and update ETA,support
+TSU0298,defective product,Guide on returns/replacement,support
+TSU0299,order not received,Track order and update ETA,support
+TSU0300,customer request callback,Schedule support callback,support
+TSU0301,delivery wrong address,Initiate address correction,support
+TSU0302,customer request callback,Schedule support callback,support
+TSU0303,order not received,Track order and update ETA,support
+TSU0304,order not received,Track order and update ETA,support
+TSU0305,delivery wrong address,Initiate address correction,support
+TSU0306,delivery wrong address,Initiate address correction,support
+TSU0307,order not received,Track order and update ETA,support
+TSU0308,defective product,Guide on returns/replacement,support
+TSU0309,order not received,Track order and update ETA,support
+TSU0310,order not received,Track order and update ETA,support
+TSU0311,customer request callback,Schedule support callback,support
+TSU0312,customer request callback,Schedule support callback,support
+TSU0313,defective product,Guide on returns/replacement,support
+TSU0314,delivery wrong address,Initiate address correction,support
+TSU0315,customer request callback,Schedule support callback,support
+TSU0316,customer request callback,Schedule support callback,support
+TSU0317,refund delayed,Check refund status with payments team,support
+TSU0318,customer request callback,Schedule support callback,support
+TSU0319,customer request callback,Schedule support callback,support
+TSU0320,order not received,Track order and update ETA,support
+TSU0321,delivery wrong address,Initiate address correction,support
+TSU0322,order not received,Track order and update ETA,support
+TSU0323,customer request callback,Schedule support callback,support
+TSU0324,customer request callback,Schedule support callback,support
+TSU0325,customer request callback,Schedule support callback,support
+TSU0326,delivery wrong address,Initiate address correction,support
+TSU0327,defective product,Guide on returns/replacement,support
+TSU0328,refund delayed,Check refund status with payments team,support
+TSU0329,refund delayed,Check refund status with payments team,support
+TSU0330,order not received,Track order and update ETA,support
+TSU0331,customer request callback,Schedule support callback,support
+TSU0332,delivery wrong address,Initiate address correction,support
+TSU0333,delivery wrong address,Initiate address correction,support
+TSU0334,order not received,Track order and update ETA,support
+TSU0335,delivery wrong address,Initiate address correction,support
+TSU0336,order not received,Track order and update ETA,support
+TSU0337,delivery wrong address,Initiate address correction,support
+TSU0338,delivery wrong address,Initiate address correction,support
+TSU0339,order not received,Track order and update ETA,support
+TSU0340,delivery wrong address,Initiate address correction,support
+TSU0341,order not received,Track order and update ETA,support
+TSU0342,customer request callback,Schedule support callback,support
+TSU0343,refund delayed,Check refund status with payments team,support
+TSU0344,defective product,Guide on returns/replacement,support
+TSU0345,delivery wrong address,Initiate address correction,support
+TSU0346,delivery wrong address,Initiate address correction,support
+TSU0347,refund delayed,Check refund status with payments team,support
+TSU0348,refund delayed,Check refund status with payments team,support
+TSU0349,customer request callback,Schedule support callback,support
+TSU0350,defective product,Guide on returns/replacement,support
+TSU0351,customer request callback,Schedule support callback,support
+TSU0352,defective product,Guide on returns/replacement,support
+TSU0353,customer request callback,Schedule support callback,support
+TSU0354,customer request callback,Schedule support callback,support
+TSU0355,delivery wrong address,Initiate address correction,support
+TSU0356,defective product,Guide on returns/replacement,support
+TSU0357,refund delayed,Check refund status with payments team,support
+TSU0358,customer request callback,Schedule support callback,support
+TSU0359,order not received,Track order and update ETA,support
+TSU0360,defective product,Guide on returns/replacement,support
+TSU0361,order not received,Track order and update ETA,support
+TSU0362,defective product,Guide on returns/replacement,support
+TSU0363,delivery wrong address,Initiate address correction,support
+TSU0364,defective product,Guide on returns/replacement,support
+TSU0365,refund delayed,Check refund status with payments team,support
+TSU0366,refund delayed,Check refund status with payments team,support
+TSU0367,order not received,Track order and update ETA,support
+TSU0368,customer request callback,Schedule support callback,support
+TSU0369,customer request callback,Schedule support callback,support
+TSU0370,refund delayed,Check refund status with payments team,support
+TSU0371,refund delayed,Check refund status with payments team,support
+TSU0372,customer request callback,Schedule support callback,support
+TSU0373,order not received,Track order and update ETA,support
+TSU0374,defective product,Guide on returns/replacement,support
+TSU0375,defective product,Guide on returns/replacement,support
+TSU0376,customer request callback,Schedule support callback,support
+TSU0377,customer request callback,Schedule support callback,support
+TSU0378,refund delayed,Check refund status with payments team,support
+TSU0379,customer request callback,Schedule support callback,support
+TSU0380,customer request callback,Schedule support callback,support
+TSU0381,order not received,Track order and update ETA,support
+TSU0382,refund delayed,Check refund status with payments team,support
+TSU0383,defective product,Guide on returns/replacement,support
+TSU0384,order not received,Track order and update ETA,support
+TSU0385,order not received,Track order and update ETA,support
+TSU0386,delivery wrong address,Initiate address correction,support
+TSU0387,defective product,Guide on returns/replacement,support
+TSU0388,refund delayed,Check refund status with payments team,support
+TSU0389,delivery wrong address,Initiate address correction,support
+TSU0390,defective product,Guide on returns/replacement,support
+TSU0391,defective product,Guide on returns/replacement,support
+TSU0392,order not received,Track order and update ETA,support
+TSU0393,order not received,Track order and update ETA,support
+TSU0394,customer request callback,Schedule support callback,support
+TSU0395,order not received,Track order and update ETA,support
+TSU0396,order not received,Track order and update ETA,support
+TSU0397,refund delayed,Check refund status with payments team,support
+TSU0398,defective product,Guide on returns/replacement,support
+TSU0399,delivery wrong address,Initiate address correction,support
+TSU0400,delivery wrong address,Initiate address correction,support
+TSU0401,order not received,Track order and update ETA,support
+TSU0402,delivery wrong address,Initiate address correction,support
+TSU0403,customer request callback,Schedule support callback,support
+TSU0404,order not received,Track order and update ETA,support
+TSU0405,refund delayed,Check refund status with payments team,support
+TSU0406,defective product,Guide on returns/replacement,support
+TSU0407,customer request callback,Schedule support callback,support
+TSU0408,defective product,Guide on returns/replacement,support
+TSU0409,defective product,Guide on returns/replacement,support
+TSU0410,defective product,Guide on returns/replacement,support
+TSU0411,order not received,Track order and update ETA,support
+TSU0412,refund delayed,Check refund status with payments team,support
+TSU0413,customer request callback,Schedule support callback,support
+TSU0414,defective product,Guide on returns/replacement,support
+TSU0415,customer request callback,Schedule support callback,support
+TSU0416,defective product,Guide on returns/replacement,support
+TSU0417,defective product,Guide on returns/replacement,support
+TSU0418,refund delayed,Check refund status with payments team,support
+TSU0419,delivery wrong address,Initiate address correction,support
+TSU0420,customer request callback,Schedule support callback,support
+TSU0421,customer request callback,Schedule support callback,support
+TSU0422,refund delayed,Check refund status with payments team,support
+TSU0423,delivery wrong address,Initiate address correction,support
+TSU0424,order not received,Track order and update ETA,support
+TSU0425,order not received,Track order and update ETA,support
+TSU0426,order not received,Track order and update ETA,support
+TSU0427,defective product,Guide on returns/replacement,support
+TSU0428,refund delayed,Check refund status with payments team,support
+TSU0429,refund delayed,Check refund status with payments team,support
+TSU0430,refund delayed,Check refund status with payments team,support
+TSU0431,order not received,Track order and update ETA,support
+TSU0432,customer request callback,Schedule support callback,support
+TSU0433,defective product,Guide on returns/replacement,support
+TSU0434,refund delayed,Check refund status with payments team,support
+TSU0435,defective product,Guide on returns/replacement,support
+TSU0436,delivery wrong address,Initiate address correction,support
+TSU0437,customer request callback,Schedule support callback,support
+TSU0438,refund delayed,Check refund status with payments team,support
+TSU0439,order not received,Track order and update ETA,support
+TSU0440,order not received,Track order and update ETA,support
+TSU0441,order not received,Track order and update ETA,support
+TSU0442,customer request callback,Schedule support callback,support
+TSU0443,delivery wrong address,Initiate address correction,support
+TSU0444,order not received,Track order and update ETA,support
+TSU0445,order not received,Track order and update ETA,support
+TSU0446,delivery wrong address,Initiate address correction,support
+TSU0447,defective product,Guide on returns/replacement,support
+TSU0448,delivery wrong address,Initiate address correction,support
+TSU0449,defective product,Guide on returns/replacement,support
+TSU0450,refund delayed,Check refund status with payments team,support
+TSU0451,customer request callback,Schedule support callback,support
+TSU0452,delivery wrong address,Initiate address correction,support
+TSU0453,delivery wrong address,Initiate address correction,support
+TSU0454,defective product,Guide on returns/replacement,support
+TSU0455,refund delayed,Check refund status with payments team,support
+TSU0456,customer request callback,Schedule support callback,support
+TSU0457,order not received,Track order and update ETA,support
+TSU0458,defective product,Guide on returns/replacement,support
+TSU0459,defective product,Guide on returns/replacement,support
+TSU0460,delivery wrong address,Initiate address correction,support
+TSU0461,delivery wrong address,Initiate address correction,support
+TSU0462,order not received,Track order and update ETA,support
+TSU0463,delivery wrong address,Initiate address correction,support
+TSU0464,order not received,Track order and update ETA,support
+TSU0465,refund delayed,Check refund status with payments team,support
+TSU0466,refund delayed,Check refund status with payments team,support
+TSU0467,refund delayed,Check refund status with payments team,support
+TSU0468,customer request callback,Schedule support callback,support
+TSU0469,refund delayed,Check refund status with payments team,support
+TSU0470,customer request callback,Schedule support callback,support
+TSU0471,defective product,Guide on returns/replacement,support
+TSU0472,refund delayed,Check refund status with payments team,support
+TSU0473,refund delayed,Check refund status with payments team,support
+TSU0474,defective product,Guide on returns/replacement,support
+TSU0475,order not received,Track order and update ETA,support
+TSU0476,refund delayed,Check refund status with payments team,support
+TSU0477,customer request callback,Schedule support callback,support
+TSU0478,order not received,Track order and update ETA,support
+TSU0479,delivery wrong address,Initiate address correction,support
+TSU0480,delivery wrong address,Initiate address correction,support
+TSU0481,customer request callback,Schedule support callback,support
+TSU0482,delivery wrong address,Initiate address correction,support
+TSU0483,defective product,Guide on returns/replacement,support
+TSU0484,defective product,Guide on returns/replacement,support
+TSU0485,order not received,Track order and update ETA,support
+TSU0486,defective product,Guide on returns/replacement,support
+TSU0487,customer request callback,Schedule support callback,support
+TSU0488,defective product,Guide on returns/replacement,support
+TSU0489,order not received,Track order and update ETA,support
+TSU0490,order not received,Track order and update ETA,support
+TSU0491,refund delayed,Check refund status with payments team,support
+TSU0492,customer request callback,Schedule support callback,support
+TSU0493,order not received,Track order and update ETA,support
+TSU0494,customer request callback,Schedule support callback,support
+TSU0495,order not received,Track order and update ETA,support
+TSU0496,customer request callback,Schedule support callback,support
+TSU0497,refund delayed,Check refund status with payments team,support
+TSU0498,order not received,Track order and update ETA,support
+TSU0499,delivery wrong address,Initiate address correction,support
+TSU0500,refund delayed,Check refund status with payments team,support

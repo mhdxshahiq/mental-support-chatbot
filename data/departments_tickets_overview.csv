@@ -1,0 +1,6 @@
+Department,File
+accounts,accounts_tickets.csv
+tech,tech_tickets.csv
+sales,sales_tickets.csv
+support,support_tickets.csv
+purchase,purchase_tickets.csv

@@ -1,0 +1,501 @@
+ticket_id,issue,solution,department
+TAC0001,update email address,Guide user to update email,accounts
+TAC0002,account locked,Reset password and unlock the account,accounts
+TAC0003,account locked,Reset password and unlock the account,accounts
+TAC0004,cannot change password,Assist with password change,accounts
+TAC0005,payment method failed,Guide to update payment details,accounts
+TAC0006,payment method failed,Guide to update payment details,accounts
+TAC0007,payment method failed,Guide to update payment details,accounts
+TAC0008,account locked,Reset password and unlock the account,accounts
+TAC0009,update email address,Guide user to update email,accounts
+TAC0010,cannot change password,Assist with password change,accounts
+TAC0011,update email address,Guide user to update email,accounts
+TAC0012,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0013,cannot change password,Assist with password change,accounts
+TAC0014,payment method failed,Guide to update payment details,accounts
+TAC0015,update email address,Guide user to update email,accounts
+TAC0016,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0017,update email address,Guide user to update email,accounts
+TAC0018,account locked,Reset password and unlock the account,accounts
+TAC0019,account locked,Reset password and unlock the account,accounts
+TAC0020,update email address,Guide user to update email,accounts
+TAC0021,update email address,Guide user to update email,accounts
+TAC0022,account locked,Reset password and unlock the account,accounts
+TAC0023,payment method failed,Guide to update payment details,accounts
+TAC0024,cannot change password,Assist with password change,accounts
+TAC0025,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0026,account locked,Reset password and unlock the account,accounts
+TAC0027,update email address,Guide user to update email,accounts
+TAC0028,update email address,Guide user to update email,accounts
+TAC0029,cannot change password,Assist with password change,accounts
+TAC0030,update email address,Guide user to update email,accounts
+TAC0031,update email address,Guide user to update email,accounts
+TAC0032,update email address,Guide user to update email,accounts
+TAC0033,cannot change password,Assist with password change,accounts
+TAC0034,account locked,Reset password and unlock the account,accounts
+TAC0035,cannot change password,Assist with password change,accounts
+TAC0036,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0037,update email address,Guide user to update email,accounts
+TAC0038,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0039,account locked,Reset password and unlock the account,accounts
+TAC0040,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0041,payment method failed,Guide to update payment details,accounts
+TAC0042,cannot change password,Assist with password change,accounts
+TAC0043,payment method failed,Guide to update payment details,accounts
+TAC0044,cannot change password,Assist with password change,accounts
+TAC0045,account locked,Reset password and unlock the account,accounts
+TAC0046,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0047,account locked,Reset password and unlock the account,accounts
+TAC0048,update email address,Guide user to update email,accounts
+TAC0049,cannot change password,Assist with password change,accounts
+TAC0050,update email address,Guide user to update email,accounts
+TAC0051,update email address,Guide user to update email,accounts
+TAC0052,payment method failed,Guide to update payment details,accounts
+TAC0053,account locked,Reset password and unlock the account,accounts
+TAC0054,account locked,Reset password and unlock the account,accounts
+TAC0055,cannot change password,Assist with password change,accounts
+TAC0056,cannot change password,Assist with password change,accounts
+TAC0057,update email address,Guide user to update email,accounts
+TAC0058,cannot change password,Assist with password change,accounts
+TAC0059,payment method failed,Guide to update payment details,accounts
+TAC0060,payment method failed,Guide to update payment details,accounts
+TAC0061,account locked,Reset password and unlock the account,accounts
+TAC0062,update email address,Guide user to update email,accounts
+TAC0063,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0064,account locked,Reset password and unlock the account,accounts
+TAC0065,cannot change password,Assist with password change,accounts
+TAC0066,payment method failed,Guide to update payment details,accounts
+TAC0067,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0068,payment method failed,Guide to update payment details,accounts
+TAC0069,account locked,Reset password and unlock the account,accounts
+TAC0070,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0071,payment method failed,Guide to update payment details,accounts
+TAC0072,cannot change password,Assist with password change,accounts
+TAC0073,account locked,Reset password and unlock the account,accounts
+TAC0074,update email address,Guide user to update email,accounts
+TAC0075,payment method failed,Guide to update payment details,accounts
+TAC0076,account locked,Reset password and unlock the account,accounts
+TAC0077,payment method failed,Guide to update payment details,accounts
+TAC0078,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0079,payment method failed,Guide to update payment details,accounts
+TAC0080,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0081,update email address,Guide user to update email,accounts
+TAC0082,payment method failed,Guide to update payment details,accounts
+TAC0083,account locked,Reset password and unlock the account,accounts
+TAC0084,update email address,Guide user to update email,accounts
+TAC0085,payment method failed,Guide to update payment details,accounts
+TAC0086,update email address,Guide user to update email,accounts
+TAC0087,account locked,Reset password and unlock the account,accounts
+TAC0088,payment method failed,Guide to update payment details,accounts
+TAC0089,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0090,cannot change password,Assist with password change,accounts
+TAC0091,update email address,Guide user to update email,accounts
+TAC0092,update email address,Guide user to update email,accounts
+TAC0093,account locked,Reset password and unlock the account,accounts
+TAC0094,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0095,payment method failed,Guide to update payment details,accounts
+TAC0096,account locked,Reset password and unlock the account,accounts
+TAC0097,account locked,Reset password and unlock the account,accounts
+TAC0098,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0099,cannot change password,Assist with password change,accounts
+TAC0100,cannot change password,Assist with password change,accounts
+TAC0101,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0102,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0103,account locked,Reset password and unlock the account,accounts
+TAC0104,cannot change password,Assist with password change,accounts
+TAC0105,payment method failed,Guide to update payment details,accounts
+TAC0106,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0107,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0108,update email address,Guide user to update email,accounts
+TAC0109,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0110,account locked,Reset password and unlock the account,accounts
+TAC0111,payment method failed,Guide to update payment details,accounts
+TAC0112,update email address,Guide user to update email,accounts
+TAC0113,cannot change password,Assist with password change,accounts
+TAC0114,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0115,cannot change password,Assist with password change,accounts
+TAC0116,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0117,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0118,payment method failed,Guide to update payment details,accounts
+TAC0119,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0120,update email address,Guide user to update email,accounts
+TAC0121,cannot change password,Assist with password change,accounts
+TAC0122,update email address,Guide user to update email,accounts
+TAC0123,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0124,cannot change password,Assist with password change,accounts
+TAC0125,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0126,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0127,account locked,Reset password and unlock the account,accounts
+TAC0128,account locked,Reset password and unlock the account,accounts
+TAC0129,account locked,Reset password and unlock the account,accounts
+TAC0130,payment method failed,Guide to update payment details,accounts
+TAC0131,payment method failed,Guide to update payment details,accounts
+TAC0132,update email address,Guide user to update email,accounts
+TAC0133,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0134,cannot change password,Assist with password change,accounts
+TAC0135,account locked,Reset password and unlock the account,accounts
+TAC0136,update email address,Guide user to update email,accounts
+TAC0137,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0138,update email address,Guide user to update email,accounts
+TAC0139,update email address,Guide user to update email,accounts
+TAC0140,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0141,cannot change password,Assist with password change,accounts
+TAC0142,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0143,update email address,Guide user to update email,accounts
+TAC0144,cannot change password,Assist with password change,accounts
+TAC0145,cannot change password,Assist with password change,accounts
+TAC0146,update email address,Guide user to update email,accounts
+TAC0147,account locked,Reset password and unlock the account,accounts
+TAC0148,update email address,Guide user to update email,accounts
+TAC0149,update email address,Guide user to update email,accounts
+TAC0150,account locked,Reset password and unlock the account,accounts
+TAC0151,update email address,Guide user to update email,accounts
+TAC0152,account locked,Reset password and unlock the account,accounts
+TAC0153,payment method failed,Guide to update payment details,accounts
+TAC0154,update email address,Guide user to update email,accounts
+TAC0155,update email address,Guide user to update email,accounts
+TAC0156,cannot change password,Assist with password change,accounts
+TAC0157,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0158,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0159,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0160,cannot change password,Assist with password change,accounts
+TAC0161,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0162,account locked,Reset password and unlock the account,accounts
+TAC0163,update email address,Guide user to update email,accounts
+TAC0164,payment method failed,Guide to update payment details,accounts
+TAC0165,account locked,Reset password and unlock the account,accounts
+TAC0166,payment method failed,Guide to update payment details,accounts
+TAC0167,cannot change password,Assist with password change,accounts
+TAC0168,update email address,Guide user to update email,accounts
+TAC0169,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0170,account locked,Reset password and unlock the account,accounts
+TAC0171,cannot change password,Assist with password change,accounts
+TAC0172,account locked,Reset password and unlock the account,accounts
+TAC0173,cannot change password,Assist with password change,accounts
+TAC0174,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0175,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0176,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0177,payment method failed,Guide to update payment details,accounts
+TAC0178,cannot change password,Assist with password change,accounts
+TAC0179,cannot change password,Assist with password change,accounts
+TAC0180,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0181,update email address,Guide user to update email,accounts
+TAC0182,account locked,Reset password and unlock the account,accounts
+TAC0183,cannot change password,Assist with password change,accounts
+TAC0184,update email address,Guide user to update email,accounts
+TAC0185,account locked,Reset password and unlock the account,accounts
+TAC0186,account locked,Reset password and unlock the account,accounts
+TAC0187,payment method failed,Guide to update payment details,accounts
+TAC0188,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0189,update email address,Guide user to update email,accounts
+TAC0190,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0191,payment method failed,Guide to update payment details,accounts
+TAC0192,update email address,Guide user to update email,accounts
+TAC0193,payment method failed,Guide to update payment details,accounts
+TAC0194,cannot change password,Assist with password change,accounts
+TAC0195,update email address,Guide user to update email,accounts
+TAC0196,cannot change password,Assist with password change,accounts
+TAC0197,payment method failed,Guide to update payment details,accounts
+TAC0198,payment method failed,Guide to update payment details,accounts
+TAC0199,cannot change password,Assist with password change,accounts
+TAC0200,cannot change password,Assist with password change,accounts
+TAC0201,cannot change password,Assist with password change,accounts
+TAC0202,update email address,Guide user to update email,accounts
+TAC0203,account locked,Reset password and unlock the account,accounts
+TAC0204,cannot change password,Assist with password change,accounts
+TAC0205,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0206,payment method failed,Guide to update payment details,accounts
+TAC0207,payment method failed,Guide to update payment details,accounts
+TAC0208,account locked,Reset password and unlock the account,accounts
+TAC0209,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0210,payment method failed,Guide to update payment details,accounts
+TAC0211,update email address,Guide user to update email,accounts
+TAC0212,cannot change password,Assist with password change,accounts
+TAC0213,update email address,Guide user to update email,accounts
+TAC0214,payment method failed,Guide to update payment details,accounts
+TAC0215,payment method failed,Guide to update payment details,accounts
+TAC0216,account locked,Reset password and unlock the account,accounts
+TAC0217,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0218,cannot change password,Assist with password change,accounts
+TAC0219,account locked,Reset password and unlock the account,accounts
+TAC0220,cannot change password,Assist with password change,accounts
+TAC0221,update email address,Guide user to update email,accounts
+TAC0222,update email address,Guide user to update email,accounts
+TAC0223,account locked,Reset password and unlock the account,accounts
+TAC0224,payment method failed,Guide to update payment details,accounts
+TAC0225,cannot change password,Assist with password change,accounts
+TAC0226,payment method failed,Guide to update payment details,accounts
+TAC0227,update email address,Guide user to update email,accounts
+TAC0228,payment method failed,Guide to update payment details,accounts
+TAC0229,update email address,Guide user to update email,accounts
+TAC0230,account locked,Reset password and unlock the account,accounts
+TAC0231,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0232,cannot change password,Assist with password change,accounts
+TAC0233,payment method failed,Guide to update payment details,accounts
+TAC0234,account locked,Reset password and unlock the account,accounts
+TAC0235,account locked,Reset password and unlock the account,accounts
+TAC0236,payment method failed,Guide to update payment details,accounts
+TAC0237,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0238,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0239,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0240,account locked,Reset password and unlock the account,accounts
+TAC0241,payment method failed,Guide to update payment details,accounts
+TAC0242,cannot change password,Assist with password change,accounts
+TAC0243,payment method failed,Guide to update payment details,accounts
+TAC0244,payment method failed,Guide to update payment details,accounts
+TAC0245,update email address,Guide user to update email,accounts
+TAC0246,payment method failed,Guide to update payment details,accounts
+TAC0247,cannot change password,Assist with password change,accounts
+TAC0248,cannot change password,Assist with password change,accounts
+TAC0249,cannot change password,Assist with password change,accounts
+TAC0250,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0251,account locked,Reset password and unlock the account,accounts
+TAC0252,cannot change password,Assist with password change,accounts
+TAC0253,account locked,Reset password and unlock the account,accounts
+TAC0254,cannot change password,Assist with password change,accounts
+TAC0255,update email address,Guide user to update email,accounts
+TAC0256,payment method failed,Guide to update payment details,accounts
+TAC0257,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0258,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0259,update email address,Guide user to update email,accounts
+TAC0260,payment method failed,Guide to update payment details,accounts
+TAC0261,payment method failed,Guide to update payment details,accounts
+TAC0262,payment method failed,Guide to update payment details,accounts
+TAC0263,account locked,Reset password and unlock the account,accounts
+TAC0264,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0265,account locked,Reset password and unlock the account,accounts
+TAC0266,payment method failed,Guide to update payment details,accounts
+TAC0267,account locked,Reset password and unlock the account,accounts
+TAC0268,account locked,Reset password and unlock the account,accounts
+TAC0269,account locked,Reset password and unlock the account,accounts
+TAC0270,cannot change password,Assist with password change,accounts
+TAC0271,update email address,Guide user to update email,accounts
+TAC0272,payment method failed,Guide to update payment details,accounts
+TAC0273,cannot change password,Assist with password change,accounts
+TAC0274,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0275,payment method failed,Guide to update payment details,accounts
+TAC0276,payment method failed,Guide to update payment details,accounts
+TAC0277,account locked,Reset password and unlock the account,accounts
+TAC0278,account locked,Reset password and unlock the account,accounts
+TAC0279,payment method failed,Guide to update payment details,accounts
+TAC0280,account locked,Reset password and unlock the account,accounts
+TAC0281,payment method failed,Guide to update payment details,accounts
+TAC0282,cannot change password,Assist with password change,accounts
+TAC0283,payment method failed,Guide to update payment details,accounts
+TAC0284,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0285,payment method failed,Guide to update payment details,accounts
+TAC0286,cannot change password,Assist with password change,accounts
+TAC0287,account locked,Reset password and unlock the account,accounts
+TAC0288,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0289,update email address,Guide user to update email,accounts
+TAC0290,cannot change password,Assist with password change,accounts
+TAC0291,payment method failed,Guide to update payment details,accounts
+TAC0292,payment method failed,Guide to update payment details,accounts
+TAC0293,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0294,cannot change password,Assist with password change,accounts
+TAC0295,account locked,Reset password and unlock the account,accounts
+TAC0296,account locked,Reset password and unlock the account,accounts
+TAC0297,account locked,Reset password and unlock the account,accounts
+TAC0298,payment method failed,Guide to update payment details,accounts
+TAC0299,update email address,Guide user to update email,accounts
+TAC0300,update email address,Guide user to update email,accounts
+TAC0301,update email address,Guide user to update email,accounts
+TAC0302,account locked,Reset password and unlock the account,accounts
+TAC0303,account locked,Reset password and unlock the account,accounts
+TAC0304,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0305,payment method failed,Guide to update payment details,accounts
+TAC0306,payment method failed,Guide to update payment details,accounts
+TAC0307,update email address,Guide user to update email,accounts
+TAC0308,update email address,Guide user to update email,accounts
+TAC0309,payment method failed,Guide to update payment details,accounts
+TAC0310,cannot change password,Assist with password change,accounts
+TAC0311,cannot change password,Assist with password change,accounts
+TAC0312,payment method failed,Guide to update payment details,accounts
+TAC0313,cannot change password,Assist with password change,accounts
+TAC0314,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0315,payment method failed,Guide to update payment details,accounts
+TAC0316,update email address,Guide user to update email,accounts
+TAC0317,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0318,account locked,Reset password and unlock the account,accounts
+TAC0319,cannot change password,Assist with password change,accounts
+TAC0320,update email address,Guide user to update email,accounts
+TAC0321,update email address,Guide user to update email,accounts
+TAC0322,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0323,account locked,Reset password and unlock the account,accounts
+TAC0324,cannot change password,Assist with password change,accounts
+TAC0325,account locked,Reset password and unlock the account,accounts
+TAC0326,account locked,Reset password and unlock the account,accounts
+TAC0327,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0328,account locked,Reset password and unlock the account,accounts
+TAC0329,account locked,Reset password and unlock the account,accounts
+TAC0330,account locked,Reset password and unlock the account,accounts
+TAC0331,cannot change password,Assist with password change,accounts
+TAC0332,cannot change password,Assist with password change,accounts
+TAC0333,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0334,account locked,Reset password and unlock the account,accounts
+TAC0335,cannot change password,Assist with password change,accounts
+TAC0336,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0337,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0338,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0339,payment method failed,Guide to update payment details,accounts
+TAC0340,cannot change password,Assist with password change,accounts
+TAC0341,account locked,Reset password and unlock the account,accounts
+TAC0342,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0343,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0344,payment method failed,Guide to update payment details,accounts
+TAC0345,update email address,Guide user to update email,accounts
+TAC0346,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0347,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0348,account locked,Reset password and unlock the account,accounts
+TAC0349,payment method failed,Guide to update payment details,accounts
+TAC0350,cannot change password,Assist with password change,accounts
+TAC0351,payment method failed,Guide to update payment details,accounts
+TAC0352,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0353,update email address,Guide user to update email,accounts
+TAC0354,account locked,Reset password and unlock the account,accounts
+TAC0355,update email address,Guide user to update email,accounts
+TAC0356,update email address,Guide user to update email,accounts
+TAC0357,update email address,Guide user to update email,accounts
+TAC0358,update email address,Guide user to update email,accounts
+TAC0359,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0360,update email address,Guide user to update email,accounts
+TAC0361,payment method failed,Guide to update payment details,accounts
+TAC0362,cannot change password,Assist with password change,accounts
+TAC0363,update email address,Guide user to update email,accounts
+TAC0364,account locked,Reset password and unlock the account,accounts
+TAC0365,update email address,Guide user to update email,accounts
+TAC0366,update email address,Guide user to update email,accounts
+TAC0367,cannot change password,Assist with password change,accounts
+TAC0368,account locked,Reset password and unlock the account,accounts
+TAC0369,payment method failed,Guide to update payment details,accounts
+TAC0370,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0371,cannot change password,Assist with password change,accounts
+TAC0372,account locked,Reset password and unlock the account,accounts
+TAC0373,update email address,Guide user to update email,accounts
+TAC0374,update email address,Guide user to update email,accounts
+TAC0375,account locked,Reset password and unlock the account,accounts
+TAC0376,update email address,Guide user to update email,accounts
+TAC0377,update email address,Guide user to update email,accounts
+TAC0378,account locked,Reset password and unlock the account,accounts
+TAC0379,update email address,Guide user to update email,accounts
+TAC0380,payment method failed,Guide to update payment details,accounts
+TAC0381,account locked,Reset password and unlock the account,accounts
+TAC0382,cannot change password,Assist with password change,accounts
+TAC0383,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0384,update email address,Guide user to update email,accounts
+TAC0385,update email address,Guide user to update email,accounts
+TAC0386,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0387,account locked,Reset password and unlock the account,accounts
+TAC0388,payment method failed,Guide to update payment details,accounts
+TAC0389,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0390,cannot change password,Assist with password change,accounts
+TAC0391,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0392,update email address,Guide user to update email,accounts
+TAC0393,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0394,account locked,Reset password and unlock the account,accounts
+TAC0395,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0396,cannot change password,Assist with password change,accounts
+TAC0397,payment method failed,Guide to update payment details,accounts
+TAC0398,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0399,account locked,Reset password and unlock the account,accounts
+TAC0400,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0401,payment method failed,Guide to update payment details,accounts
+TAC0402,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0403,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0404,cannot change password,Assist with password change,accounts
+TAC0405,update email address,Guide user to update email,accounts
+TAC0406,cannot change password,Assist with password change,accounts
+TAC0407,account locked,Reset password and unlock the account,accounts
+TAC0408,account locked,Reset password and unlock the account,accounts
+TAC0409,update email address,Guide user to update email,accounts
+TAC0410,cannot change password,Assist with password change,accounts
+TAC0411,account locked,Reset password and unlock the account,accounts
+TAC0412,update email address,Guide user to update email,accounts
+TAC0413,update email address,Guide user to update email,accounts
+TAC0414,cannot change password,Assist with password change,accounts
+TAC0415,account locked,Reset password and unlock the account,accounts
+TAC0416,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0417,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0418,update email address,Guide user to update email,accounts
+TAC0419,update email address,Guide user to update email,accounts
+TAC0420,account locked,Reset password and unlock the account,accounts
+TAC0421,payment method failed,Guide to update payment details,accounts
+TAC0422,update email address,Guide user to update email,accounts
+TAC0423,account locked,Reset password and unlock the account,accounts
+TAC0424,account locked,Reset password and unlock the account,accounts
+TAC0425,payment method failed,Guide to update payment details,accounts
+TAC0426,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0427,cannot change password,Assist with password change,accounts
+TAC0428,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0429,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0430,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0431,payment method failed,Guide to update payment details,accounts
+TAC0432,account locked,Reset password and unlock the account,accounts
+TAC0433,payment method failed,Guide to update payment details,accounts
+TAC0434,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0435,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0436,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0437,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0438,payment method failed,Guide to update payment details,accounts
+TAC0439,account locked,Reset password and unlock the account,accounts
+TAC0440,cannot change password,Assist with password change,accounts
+TAC0441,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0442,update email address,Guide user to update email,accounts
+TAC0443,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0444,payment method failed,Guide to update payment details,accounts
+TAC0445,cannot change password,Assist with password change,accounts
+TAC0446,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0447,account locked,Reset password and unlock the account,accounts
+TAC0448,update email address,Guide user to update email,accounts
+TAC0449,account locked,Reset password and unlock the account,accounts
+TAC0450,cannot change password,Assist with password change,accounts
+TAC0451,update email address,Guide user to update email,accounts
+TAC0452,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0453,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0454,payment method failed,Guide to update payment details,accounts
+TAC0455,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0456,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0457,update email address,Guide user to update email,accounts
+TAC0458,account locked,Reset password and unlock the account,accounts
+TAC0459,payment method failed,Guide to update payment details,accounts
+TAC0460,account locked,Reset password and unlock the account,accounts
+TAC0461,cannot change password,Assist with password change,accounts
+TAC0462,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0463,payment method failed,Guide to update payment details,accounts
+TAC0464,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0465,cannot change password,Assist with password change,accounts
+TAC0466,payment method failed,Guide to update payment details,accounts
+TAC0467,account locked,Reset password and unlock the account,accounts
+TAC0468,account locked,Reset password and unlock the account,accounts
+TAC0469,account locked,Reset password and unlock the account,accounts
+TAC0470,cannot change password,Assist with password change,accounts
+TAC0471,payment method failed,Guide to update payment details,accounts
+TAC0472,cannot change password,Assist with password change,accounts
+TAC0473,cannot change password,Assist with password change,accounts
+TAC0474,update email address,Guide user to update email,accounts
+TAC0475,update email address,Guide user to update email,accounts
+TAC0476,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0477,cannot change password,Assist with password change,accounts
+TAC0478,cannot change password,Assist with password change,accounts
+TAC0479,update email address,Guide user to update email,accounts
+TAC0480,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0481,update email address,Guide user to update email,accounts
+TAC0482,cannot change password,Assist with password change,accounts
+TAC0483,account locked,Reset password and unlock the account,accounts
+TAC0484,account locked,Reset password and unlock the account,accounts
+TAC0485,cannot change password,Assist with password change,accounts
+TAC0486,update email address,Guide user to update email,accounts
+TAC0487,cannot change password,Assist with password change,accounts
+TAC0488,update email address,Guide user to update email,accounts
+TAC0489,update email address,Guide user to update email,accounts
+TAC0490,account locked,Reset password and unlock the account,accounts
+TAC0491,payment method failed,Guide to update payment details,accounts
+TAC0492,account locked,Reset password and unlock the account,accounts
+TAC0493,suspicious login detected,Confirm if user recognizes activity,accounts
+TAC0494,cannot change password,Assist with password change,accounts
+TAC0495,update email address,Guide user to update email,accounts
+TAC0496,cannot change password,Assist with password change,accounts
+TAC0497,payment method failed,Guide to update payment details,accounts
+TAC0498,update email address,Guide user to update email,accounts
+TAC0499,cannot change password,Assist with password change,accounts
+TAC0500,update email address,Guide user to update email,accounts

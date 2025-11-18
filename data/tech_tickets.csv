@@ -1,0 +1,501 @@
+ticket_id,issue,solution,department
+TTE0001,error code 503,"Server issue, try after some time",tech
+TTE0002,feature not loading,Check connection and try again,tech
+TTE0003,slow app,Suggest device restart,tech
+TTE0004,slow app,Suggest device restart,tech
+TTE0005,app crashes,Clear cache or reinstall app,tech
+TTE0006,checkout not working,Confirm app version and retry,tech
+TTE0007,feature not loading,Check connection and try again,tech
+TTE0008,error code 503,"Server issue, try after some time",tech
+TTE0009,feature not loading,Check connection and try again,tech
+TTE0010,error code 503,"Server issue, try after some time",tech
+TTE0011,slow app,Suggest device restart,tech
+TTE0012,feature not loading,Check connection and try again,tech
+TTE0013,checkout not working,Confirm app version and retry,tech
+TTE0014,app crashes,Clear cache or reinstall app,tech
+TTE0015,error code 503,"Server issue, try after some time",tech
+TTE0016,app crashes,Clear cache or reinstall app,tech
+TTE0017,feature not loading,Check connection and try again,tech
+TTE0018,app crashes,Clear cache or reinstall app,tech
+TTE0019,slow app,Suggest device restart,tech
+TTE0020,slow app,Suggest device restart,tech
+TTE0021,error code 503,"Server issue, try after some time",tech
+TTE0022,app crashes,Clear cache or reinstall app,tech
+TTE0023,feature not loading,Check connection and try again,tech
+TTE0024,slow app,Suggest device restart,tech
+TTE0025,slow app,Suggest device restart,tech
+TTE0026,checkout not working,Confirm app version and retry,tech
+TTE0027,checkout not working,Confirm app version and retry,tech
+TTE0028,app crashes,Clear cache or reinstall app,tech
+TTE0029,app crashes,Clear cache or reinstall app,tech
+TTE0030,feature not loading,Check connection and try again,tech
+TTE0031,feature not loading,Check connection and try again,tech
+TTE0032,slow app,Suggest device restart,tech
+TTE0033,error code 503,"Server issue, try after some time",tech
+TTE0034,feature not loading,Check connection and try again,tech
+TTE0035,error code 503,"Server issue, try after some time",tech
+TTE0036,error code 503,"Server issue, try after some time",tech
+TTE0037,slow app,Suggest device restart,tech
+TTE0038,feature not loading,Check connection and try again,tech
+TTE0039,slow app,Suggest device restart,tech
+TTE0040,slow app,Suggest device restart,tech
+TTE0041,slow app,Suggest device restart,tech
+TTE0042,feature not loading,Check connection and try again,tech
+TTE0043,checkout not working,Confirm app version and retry,tech
+TTE0044,error code 503,"Server issue, try after some time",tech
+TTE0045,feature not loading,Check connection and try again,tech
+TTE0046,feature not loading,Check connection and try again,tech
+TTE0047,app crashes,Clear cache or reinstall app,tech
+TTE0048,slow app,Suggest device restart,tech
+TTE0049,app crashes,Clear cache or reinstall app,tech
+TTE0050,error code 503,"Server issue, try after some time",tech
+TTE0051,checkout not working,Confirm app version and retry,tech
+TTE0052,error code 503,"Server issue, try after some time",tech
+TTE0053,app crashes,Clear cache or reinstall app,tech
+TTE0054,slow app,Suggest device restart,tech
+TTE0055,app crashes,Clear cache or reinstall app,tech
+TTE0056,app crashes,Clear cache or reinstall app,tech
+TTE0057,feature not loading,Check connection and try again,tech
+TTE0058,app crashes,Clear cache or reinstall app,tech
+TTE0059,app crashes,Clear cache or reinstall app,tech
+TTE0060,slow app,Suggest device restart,tech
+TTE0061,error code 503,"Server issue, try after some time",tech
+TTE0062,slow app,Suggest device restart,tech
+TTE0063,feature not loading,Check connection and try again,tech
+TTE0064,error code 503,"Server issue, try after some time",tech
+TTE0065,slow app,Suggest device restart,tech
+TTE0066,app crashes,Clear cache or reinstall app,tech
+TTE0067,feature not loading,Check connection and try again,tech
+TTE0068,feature not loading,Check connection and try again,tech
+TTE0069,error code 503,"Server issue, try after some time",tech
+TTE0070,feature not loading,Check connection and try again,tech
+TTE0071,checkout not working,Confirm app version and retry,tech
+TTE0072,checkout not working,Confirm app version and retry,tech
+TTE0073,error code 503,"Server issue, try after some time",tech
+TTE0074,slow app,Suggest device restart,tech
+TTE0075,app crashes,Clear cache or reinstall app,tech
+TTE0076,error code 503,"Server issue, try after some time",tech
+TTE0077,error code 503,"Server issue, try after some time",tech
+TTE0078,checkout not working,Confirm app version and retry,tech
+TTE0079,app crashes,Clear cache or reinstall app,tech
+TTE0080,feature not loading,Check connection and try again,tech
+TTE0081,feature not loading,Check connection and try again,tech
+TTE0082,error code 503,"Server issue, try after some time",tech
+TTE0083,feature not loading,Check connection and try again,tech
+TTE0084,error code 503,"Server issue, try after some time",tech
+TTE0085,error code 503,"Server issue, try after some time",tech
+TTE0086,slow app,Suggest device restart,tech
+TTE0087,error code 503,"Server issue, try after some time",tech
+TTE0088,error code 503,"Server issue, try after some time",tech
+TTE0089,slow app,Suggest device restart,tech
+TTE0090,slow app,Suggest device restart,tech
+TTE0091,error code 503,"Server issue, try after some time",tech
+TTE0092,app crashes,Clear cache or reinstall app,tech
+TTE0093,error code 503,"Server issue, try after some time",tech
+TTE0094,app crashes,Clear cache or reinstall app,tech
+TTE0095,slow app,Suggest device restart,tech
+TTE0096,app crashes,Clear cache or reinstall app,tech
+TTE0097,error code 503,"Server issue, try after some time",tech
+TTE0098,app crashes,Clear cache or reinstall app,tech
+TTE0099,slow app,Suggest device restart,tech
+TTE0100,error code 503,"Server issue, try after some time",tech
+TTE0101,app crashes,Clear cache or reinstall app,tech
+TTE0102,error code 503,"Server issue, try after some time",tech
+TTE0103,checkout not working,Confirm app version and retry,tech
+TTE0104,app crashes,Clear cache or reinstall app,tech
+TTE0105,feature not loading,Check connection and try again,tech
+TTE0106,app crashes,Clear cache or reinstall app,tech
+TTE0107,app crashes,Clear cache or reinstall app,tech
+TTE0108,error code 503,"Server issue, try after some time",tech
+TTE0109,checkout not working,Confirm app version and retry,tech
+TTE0110,app crashes,Clear cache or reinstall app,tech
+TTE0111,app crashes,Clear cache or reinstall app,tech
+TTE0112,error code 503,"Server issue, try after some time",tech
+TTE0113,feature not loading,Check connection and try again,tech
+TTE0114,slow app,Suggest device restart,tech
+TTE0115,error code 503,"Server issue, try after some time",tech
+TTE0116,slow app,Suggest device restart,tech
+TTE0117,checkout not working,Confirm app version and retry,tech
+TTE0118,feature not loading,Check connection and try again,tech
+TTE0119,slow app,Suggest device restart,tech
+TTE0120,error code 503,"Server issue, try after some time",tech
+TTE0121,slow app,Suggest device restart,tech
+TTE0122,checkout not working,Confirm app version and retry,tech
+TTE0123,slow app,Suggest device restart,tech
+TTE0124,error code 503,"Server issue, try after some time",tech
+TTE0125,slow app,Suggest device restart,tech
+TTE0126,feature not loading,Check connection and try again,tech
+TTE0127,error code 503,"Server issue, try after some time",tech
+TTE0128,app crashes,Clear cache or reinstall app,tech
+TTE0129,checkout not working,Confirm app version and retry,tech
+TTE0130,feature not loading,Check connection and try again,tech
+TTE0131,app crashes,Clear cache or reinstall app,tech
+TTE0132,checkout not working,Confirm app version and retry,tech
+TTE0133,feature not loading,Check connection and try again,tech
+TTE0134,error code 503,"Server issue, try after some time",tech
+TTE0135,app crashes,Clear cache or reinstall app,tech
+TTE0136,app crashes,Clear cache or reinstall app,tech
+TTE0137,error code 503,"Server issue, try after some time",tech
+TTE0138,checkout not working,Confirm app version and retry,tech
+TTE0139,app crashes,Clear cache or reinstall app,tech
+TTE0140,error code 503,"Server issue, try after some time",tech
+TTE0141,checkout not working,Confirm app version and retry,tech
+TTE0142,app crashes,Clear cache or reinstall app,tech
+TTE0143,error code 503,"Server issue, try after some time",tech
+TTE0144,feature not loading,Check connection and try again,tech
+TTE0145,slow app,Suggest device restart,tech
+TTE0146,app crashes,Clear cache or reinstall app,tech
+TTE0147,error code 503,"Server issue, try after some time",tech
+TTE0148,error code 503,"Server issue, try after some time",tech
+TTE0149,slow app,Suggest device restart,tech
+TTE0150,error code 503,"Server issue, try after some time",tech
+TTE0151,slow app,Suggest device restart,tech
+TTE0152,error code 503,"Server issue, try after some time",tech
+TTE0153,app crashes,Clear cache or reinstall app,tech
+TTE0154,feature not loading,Check connection and try again,tech
+TTE0155,app crashes,Clear cache or reinstall app,tech
+TTE0156,slow app,Suggest device restart,tech
+TTE0157,app crashes,Clear cache or reinstall app,tech
+TTE0158,app crashes,Clear cache or reinstall app,tech
+TTE0159,app crashes,Clear cache or reinstall app,tech
+TTE0160,app crashes,Clear cache or reinstall app,tech
+TTE0161,app crashes,Clear cache or reinstall app,tech
+TTE0162,feature not loading,Check connection and try again,tech
+TTE0163,error code 503,"Server issue, try after some time",tech
+TTE0164,error code 503,"Server issue, try after some time",tech
+TTE0165,error code 503,"Server issue, try after some time",tech
+TTE0166,slow app,Suggest device restart,tech
+TTE0167,slow app,Suggest device restart,tech
+TTE0168,feature not loading,Check connection and try again,tech
+TTE0169,feature not loading,Check connection and try again,tech
+TTE0170,error code 503,"Server issue, try after some time",tech
+TTE0171,app crashes,Clear cache or reinstall app,tech
+TTE0172,error code 503,"Server issue, try after some time",tech
+TTE0173,app crashes,Clear cache or reinstall app,tech
+TTE0174,error code 503,"Server issue, try after some time",tech
+TTE0175,app crashes,Clear cache or reinstall app,tech
+TTE0176,error code 503,"Server issue, try after some time",tech
+TTE0177,slow app,Suggest device restart,tech
+TTE0178,app crashes,Clear cache or reinstall app,tech
+TTE0179,checkout not working,Confirm app version and retry,tech
+TTE0180,error code 503,"Server issue, try after some time",tech
+TTE0181,error code 503,"Server issue, try after some time",tech
+TTE0182,slow app,Suggest device restart,tech
+TTE0183,checkout not working,Confirm app version and retry,tech
+TTE0184,error code 503,"Server issue, try after some time",tech
+TTE0185,app crashes,Clear cache or reinstall app,tech
+TTE0186,checkout not working,Confirm app version and retry,tech
+TTE0187,app crashes,Clear cache or reinstall app,tech
+TTE0188,feature not loading,Check connection and try again,tech
+TTE0189,app crashes,Clear cache or reinstall app,tech
+TTE0190,feature not loading,Check connection and try again,tech
+TTE0191,slow app,Suggest device restart,tech
+TTE0192,error code 503,"Server issue, try after some time",tech
+TTE0193,checkout not working,Confirm app version and retry,tech
+TTE0194,feature not loading,Check connection and try again,tech
+TTE0195,checkout not working,Confirm app version and retry,tech
+TTE0196,feature not loading,Check connection and try again,tech
+TTE0197,slow app,Suggest device restart,tech
+TTE0198,feature not loading,Check connection and try again,tech
+TTE0199,feature not loading,Check connection and try again,tech
+TTE0200,checkout not working,Confirm app version and retry,tech
+TTE0201,slow app,Suggest device restart,tech
+TTE0202,checkout not working,Confirm app version and retry,tech
+TTE0203,error code 503,"Server issue, try after some time",tech
+TTE0204,checkout not working,Confirm app version and retry,tech
+TTE0205,app crashes,Clear cache or reinstall app,tech
+TTE0206,app crashes,Clear cache or reinstall app,tech
+TTE0207,checkout not working,Confirm app version and retry,tech
+TTE0208,feature not loading,Check connection and try again,tech
+TTE0209,checkout not working,Confirm app version and retry,tech
+TTE0210,checkout not working,Confirm app version and retry,tech
+TTE0211,slow app,Suggest device restart,tech
+TTE0212,slow app,Suggest device restart,tech
+TTE0213,slow app,Suggest device restart,tech
+TTE0214,checkout not working,Confirm app version and retry,tech
+TTE0215,slow app,Suggest device restart,tech
+TTE0216,error code 503,"Server issue, try after some time",tech
+TTE0217,checkout not working,Confirm app version and retry,tech
+TTE0218,app crashes,Clear cache or reinstall app,tech
+TTE0219,checkout not working,Confirm app version and retry,tech
+TTE0220,error code 503,"Server issue, try after some time",tech
+TTE0221,error code 503,"Server issue, try after some time",tech
+TTE0222,app crashes,Clear cache or reinstall app,tech
+TTE0223,checkout not working,Confirm app version and retry,tech
+TTE0224,feature not loading,Check connection and try again,tech
+TTE0225,slow app,Suggest device restart,tech
+TTE0226,feature not loading,Check connection and try again,tech
+TTE0227,feature not loading,Check connection and try again,tech
+TTE0228,error code 503,"Server issue, try after some time",tech
+TTE0229,app crashes,Clear cache or reinstall app,tech
+TTE0230,error code 503,"Server issue, try after some time",tech
+TTE0231,app crashes,Clear cache or reinstall app,tech
+TTE0232,slow app,Suggest device restart,tech
+TTE0233,app crashes,Clear cache or reinstall app,tech
+TTE0234,feature not loading,Check connection and try again,tech
+TTE0235,error code 503,"Server issue, try after some time",tech
+TTE0236,feature not loading,Check connection and try again,tech
+TTE0237,app crashes,Clear cache or reinstall app,tech
+TTE0238,error code 503,"Server issue, try after some time",tech
+TTE0239,feature not loading,Check connection and try again,tech
+TTE0240,app crashes,Clear cache or reinstall app,tech
+TTE0241,error code 503,"Server issue, try after some time",tech
+TTE0242,error code 503,"Server issue, try after some time",tech
+TTE0243,feature not loading,Check connection and try again,tech
+TTE0244,slow app,Suggest device restart,tech
+TTE0245,error code 503,"Server issue, try after some time",tech
+TTE0246,checkout not working,Confirm app version and retry,tech
+TTE0247,app crashes,Clear cache or reinstall app,tech
+TTE0248,slow app,Suggest device restart,tech
+TTE0249,error code 503,"Server issue, try after some time",tech
+TTE0250,feature not loading,Check connection and try again,tech
+TTE0251,feature not loading,Check connection and try again,tech
+TTE0252,checkout not working,Confirm app version and retry,tech
+TTE0253,checkout not working,Confirm app version and retry,tech
+TTE0254,app crashes,Clear cache or reinstall app,tech
+TTE0255,feature not loading,Check connection and try again,tech
+TTE0256,slow app,Suggest device restart,tech
+TTE0257,error code 503,"Server issue, try after some time",tech
+TTE0258,error code 503,"Server issue, try after some time",tech
+TTE0259,error code 503,"Server issue, try after some time",tech
+TTE0260,feature not loading,Check connection and try again,tech
+TTE0261,feature not loading,Check connection and try again,tech
+TTE0262,checkout not working,Confirm app version and retry,tech
+TTE0263,checkout not working,Confirm app version and retry,tech
+TTE0264,checkout not working,Confirm app version and retry,tech
+TTE0265,slow app,Suggest device restart,tech
+TTE0266,error code 503,"Server issue, try after some time",tech
+TTE0267,slow app,Suggest device restart,tech
+TTE0268,checkout not working,Confirm app version and retry,tech
+TTE0269,app crashes,Clear cache or reinstall app,tech
+TTE0270,feature not loading,Check connection and try again,tech
+TTE0271,feature not loading,Check connection and try again,tech
+TTE0272,slow app,Suggest device restart,tech
+TTE0273,slow app,Suggest device restart,tech
+TTE0274,feature not loading,Check connection and try again,tech
+TTE0275,app crashes,Clear cache or reinstall app,tech
+TTE0276,error code 503,"Server issue, try after some time",tech
+TTE0277,slow app,Suggest device restart,tech
+TTE0278,slow app,Suggest device restart,tech
+TTE0279,feature not loading,Check connection and try again,tech
+TTE0280,error code 503,"Server issue, try after some time",tech
+TTE0281,checkout not working,Confirm app version and retry,tech
+TTE0282,slow app,Suggest device restart,tech
+TTE0283,slow app,Suggest device restart,tech
+TTE0284,feature not loading,Check connection and try again,tech
+TTE0285,checkout not working,Confirm app version and retry,tech
+TTE0286,error code 503,"Server issue, try after some time",tech
+TTE0287,error code 503,"Server issue, try after some time",tech
+TTE0288,app crashes,Clear cache or reinstall app,tech
+TTE0289,checkout not working,Confirm app version and retry,tech
+TTE0290,error code 503,"Server issue, try after some time",tech
+TTE0291,feature not loading,Check connection and try again,tech
+TTE0292,app crashes,Clear cache or reinstall app,tech
+TTE0293,slow app,Suggest device restart,tech
+TTE0294,checkout not working,Confirm app version and retry,tech
+TTE0295,checkout not working,Confirm app version and retry,tech
+TTE0296,checkout not working,Confirm app version and retry,tech
+TTE0297,error code 503,"Server issue, try after some time",tech
+TTE0298,app crashes,Clear cache or reinstall app,tech
+TTE0299,slow app,Suggest device restart,tech
+TTE0300,slow app,Suggest device restart,tech
+TTE0301,app crashes,Clear cache or reinstall app,tech
+TTE0302,checkout not working,Confirm app version and retry,tech
+TTE0303,app crashes,Clear cache or reinstall app,tech
+TTE0304,slow app,Suggest device restart,tech
+TTE0305,app crashes,Clear cache or reinstall app,tech
+TTE0306,feature not loading,Check connection and try again,tech
+TTE0307,feature not loading,Check connection and try again,tech
+TTE0308,app crashes,Clear cache or reinstall app,tech
+TTE0309,checkout not working,Confirm app version and retry,tech
+TTE0310,feature not loading,Check connection and try again,tech
+TTE0311,feature not loading,Check connection and try again,tech
+TTE0312,error code 503,"Server issue, try after some time",tech
+TTE0313,feature not loading,Check connection and try again,tech
+TTE0314,error code 503,"Server issue, try after some time",tech
+TTE0315,app crashes,Clear cache or reinstall app,tech
+TTE0316,app crashes,Clear cache or reinstall app,tech
+TTE0317,checkout not working,Confirm app version and retry,tech
+TTE0318,feature not loading,Check connection and try again,tech
+TTE0319,feature not loading,Check connection and try again,tech
+TTE0320,app crashes,Clear cache or reinstall app,tech
+TTE0321,slow app,Suggest device restart,tech
+TTE0322,feature not loading,Check connection and try again,tech
+TTE0323,feature not loading,Check connection and try again,tech
+TTE0324,slow app,Suggest device restart,tech
+TTE0325,checkout not working,Confirm app version and retry,tech
+TTE0326,app crashes,Clear cache or reinstall app,tech
+TTE0327,feature not loading,Check connection and try again,tech
+TTE0328,error code 503,"Server issue, try after some time",tech
+TTE0329,checkout not working,Confirm app version and retry,tech
+TTE0330,slow app,Suggest device restart,tech
+TTE0331,app crashes,Clear cache or reinstall app,tech
+TTE0332,error code 503,"Server issue, try after some time",tech
+TTE0333,app crashes,Clear cache or reinstall app,tech
+TTE0334,feature not loading,Check connection and try again,tech
+TTE0335,slow app,Suggest device restart,tech
+TTE0336,app crashes,Clear cache or reinstall app,tech
+TTE0337,app crashes,Clear cache or reinstall app,tech
+TTE0338,feature not loading,Check connection and try again,tech
+TTE0339,app crashes,Clear cache or reinstall app,tech
+TTE0340,error code 503,"Server issue, try after some time",tech
+TTE0341,error code 503,"Server issue, try after some time",tech
+TTE0342,feature not loading,Check connection and try again,tech
+TTE0343,error code 503,"Server issue, try after some time",tech
+TTE0344,app crashes,Clear cache or reinstall app,tech
+TTE0345,slow app,Suggest device restart,tech
+TTE0346,error code 503,"Server issue, try after some time",tech
+TTE0347,error code 503,"Server issue, try after some time",tech
+TTE0348,slow app,Suggest device restart,tech
+TTE0349,error code 503,"Server issue, try after some time",tech
+TTE0350,error code 503,"Server issue, try after some time",tech
+TTE0351,slow app,Suggest device restart,tech
+TTE0352,feature not loading,Check connection and try again,tech
+TTE0353,app crashes,Clear cache or reinstall app,tech
+TTE0354,feature not loading,Check connection and try again,tech
+TTE0355,slow app,Suggest device restart,tech
+TTE0356,error code 503,"Server issue, try after some time",tech
+TTE0357,error code 503,"Server issue, try after some time",tech
+TTE0358,app crashes,Clear cache or reinstall app,tech
+TTE0359,feature not loading,Check connection and try again,tech
+TTE0360,feature not loading,Check connection and try again,tech
+TTE0361,app crashes,Clear cache or reinstall app,tech
+TTE0362,error code 503,"Server issue, try after some time",tech
+TTE0363,checkout not working,Confirm app version and retry,tech
+TTE0364,slow app,Suggest device restart,tech
+TTE0365,error code 503,"Server issue, try after some time",tech
+TTE0366,feature not loading,Check connection and try again,tech
+TTE0367,error code 503,"Server issue, try after some time",tech
+TTE0368,checkout not working,Confirm app version and retry,tech
+TTE0369,feature not loading,Check connection and try again,tech
+TTE0370,app crashes,Clear cache or reinstall app,tech
+TTE0371,checkout not working,Confirm app version and retry,tech
+TTE0372,error code 503,"Server issue, try after some time",tech
+TTE0373,feature not loading,Check connection and try again,tech
+TTE0374,app crashes,Clear cache or reinstall app,tech
+TTE0375,slow app,Suggest device restart,tech
+TTE0376,feature not loading,Check connection and try again,tech
+TTE0377,app crashes,Clear cache or reinstall app,tech
+TTE0378,error code 503,"Server issue, try after some time",tech
+TTE0379,feature not loading,Check connection and try again,tech
+TTE0380,feature not loading,Check connection and try again,tech
+TTE0381,slow app,Suggest device restart,tech
+TTE0382,app crashes,Clear cache or reinstall app,tech
+TTE0383,feature not loading,Check connection and try again,tech
+TTE0384,checkout not working,Confirm app version and retry,tech
+TTE0385,checkout not working,Confirm app version and retry,tech
+TTE0386,app crashes,Clear cache or reinstall app,tech
+TTE0387,slow app,Suggest device restart,tech
+TTE0388,feature not loading,Check connection and try again,tech
+TTE0389,app crashes,Clear cache or reinstall app,tech
+TTE0390,feature not loading,Check connection and try again,tech
+TTE0391,checkout not working,Confirm app version and retry,tech
+TTE0392,error code 503,"Server issue, try after some time",tech
+TTE0393,checkout not working,Confirm app version and retry,tech
+TTE0394,error code 503,"Server issue, try after some time",tech
+TTE0395,checkout not working,Confirm app version and retry,tech
+TTE0396,error code 503,"Server issue, try after some time",tech
+TTE0397,checkout not working,Confirm app version and retry,tech
+TTE0398,feature not loading,Check connection and try again,tech
+TTE0399,feature not loading,Check connection and try again,tech
+TTE0400,error code 503,"Server issue, try after some time",tech
+TTE0401,feature not loading,Check connection and try again,tech
+TTE0402,feature not loading,Check connection and try again,tech
+TTE0403,checkout not working,Confirm app version and retry,tech
+TTE0404,checkout not working,Confirm app version and retry,tech
+TTE0405,app crashes,Clear cache or reinstall app,tech
+TTE0406,error code 503,"Server issue, try after some time",tech
+TTE0407,error code 503,"Server issue, try after some time",tech
+TTE0408,error code 503,"Server issue, try after some time",tech
+TTE0409,app crashes,Clear cache or reinstall app,tech
+TTE0410,feature not loading,Check connection and try again,tech
+TTE0411,error code 503,"Server issue, try after some time",tech
+TTE0412,checkout not working,Confirm app version and retry,tech
+TTE0413,app crashes,Clear cache or reinstall app,tech
+TTE0414,feature not loading,Check connection and try again,tech
+TTE0415,slow app,Suggest device restart,tech
+TTE0416,feature not loading,Check connection and try again,tech
+TTE0417,app crashes,Clear cache or reinstall app,tech
+TTE0418,checkout not working,Confirm app version and retry,tech
+TTE0419,feature not loading,Check connection and try again,tech
+TTE0420,feature not loading,Check connection and try again,tech
+TTE0421,slow app,Suggest device restart,tech
+TTE0422,checkout not working,Confirm app version and retry,tech
+TTE0423,slow app,Suggest device restart,tech
+TTE0424,checkout not working,Confirm app version and retry,tech
+TTE0425,slow app,Suggest device restart,tech
+TTE0426,feature not loading,Check connection and try again,tech
+TTE0427,slow app,Suggest device restart,tech
+TTE0428,checkout not working,Confirm app version and retry,tech
+TTE0429,slow app,Suggest device restart,tech
+TTE0430,error code 503,"Server issue, try after some time",tech
+TTE0431,app crashes,Clear cache or reinstall app,tech
+TTE0432,feature not loading,Check connection and try again,tech
+TTE0433,error code 503,"Server issue, try after some time",tech
+TTE0434,error code 503,"Server issue, try after some time",tech
+TTE0435,checkout not working,Confirm app version and retry,tech
+TTE0436,app crashes,Clear cache or reinstall app,tech
+TTE0437,app crashes,Clear cache or reinstall app,tech
+TTE0438,app crashes,Clear cache or reinstall app,tech
+TTE0439,app crashes,Clear cache or reinstall app,tech
+TTE0440,feature not loading,Check connection and try again,tech
+TTE0441,checkout not working,Confirm app version and retry,tech
+TTE0442,feature not loading,Check connection and try again,tech
+TTE0443,feature not loading,Check connection and try again,tech
+TTE0444,checkout not working,Confirm app version and retry,tech
+TTE0445,slow app,Suggest device restart,tech
+TTE0446,checkout not working,Confirm app version and retry,tech
+TTE0447,error code 503,"Server issue, try after some time",tech
+TTE0448,error code 503,"Server issue, try after some time",tech
+TTE0449,feature not loading,Check connection and try again,tech
+TTE0450,app crashes,Clear cache or reinstall app,tech
+TTE0451,error code 503,"Server issue, try after some time",tech
+TTE0452,error code 503,"Server issue, try after some time",tech
+TTE0453,checkout not working,Confirm app version and retry,tech
+TTE0454,app crashes,Clear cache or reinstall app,tech
+TTE0455,slow app,Suggest device restart,tech
+TTE0456,checkout not working,Confirm app version and retry,tech
+TTE0457,slow app,Suggest device restart,tech
+TTE0458,error code 503,"Server issue, try after some time",tech
+TTE0459,checkout not working,Confirm app version and retry,tech
+TTE0460,error code 503,"Server issue, try after some time",tech
+TTE0461,feature not loading,Check connection and try again,tech
+TTE0462,feature not loading,Check connection and try again,tech
+TTE0463,slow app,Suggest device restart,tech
+TTE0464,error code 503,"Server issue, try after some time",tech
+TTE0465,feature not loading,Check connection and try again,tech
+TTE0466,error code 503,"Server issue, try after some time",tech
+TTE0467,checkout not working,Confirm app version and retry,tech
+TTE0468,feature not loading,Check connection and try again,tech
+TTE0469,feature not loading,Check connection and try again,tech
+TTE0470,feature not loading,Check connection and try again,tech
+TTE0471,app crashes,Clear cache or reinstall app,tech
+TTE0472,slow app,Suggest device restart,tech
+TTE0473,app crashes,Clear cache or reinstall app,tech
+TTE0474,error code 503,"Server issue, try after some time",tech
+TTE0475,app crashes,Clear cache or reinstall app,tech
+TTE0476,app crashes,Clear cache or reinstall app,tech
+TTE0477,slow app,Suggest device restart,tech
+TTE0478,slow app,Suggest device restart,tech
+TTE0479,checkout not working,Confirm app version and retry,tech
+TTE0480,feature not loading,Check connection and try again,tech
+TTE0481,app crashes,Clear cache or reinstall app,tech
+TTE0482,feature not loading,Check connection and try again,tech
+TTE0483,feature not loading,Check connection and try again,tech
+TTE0484,app crashes,Clear cache or reinstall app,tech
+TTE0485,slow app,Suggest device restart,tech
+TTE0486,error code 503,"Server issue, try after some time",tech
+TTE0487,error code 503,"Server issue, try after some time",tech
+TTE0488,error code 503,"Server issue, try after some time",tech
+TTE0489,app crashes,Clear cache or reinstall app,tech
+TTE0490,app crashes,Clear cache or reinstall app,tech
+TTE0491,feature not loading,Check connection and try again,tech
+TTE0492,checkout not working,Confirm app version and retry,tech
+TTE0493,slow app,Suggest device restart,tech
+TTE0494,error code 503,"Server issue, try after some time",tech
+TTE0495,error code 503,"Server issue, try after some time",tech
+TTE0496,checkout not working,Confirm app version and retry,tech
+TTE0497,feature not loading,Check connection and try again,tech
+TTE0498,app crashes,Clear cache or reinstall app,tech
+TTE0499,checkout not working,Confirm app version and retry,tech
+TTE0500,slow app,Suggest device restart,tech
