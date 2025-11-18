@@ -1,0 +1,307 @@
+[
+    {
+        "timestamp": "2025-11-17T12:19:59.125775",
+        "query": "hai",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-17T12:20:15.872985",
+        "query": "hello",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-17T12:28:19.964186",
+        "query": "hai",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-17T12:28:49.440827",
+        "query": "my app is not loading the payment section",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-17T12:32:42.331380",
+        "query": "hai",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-17T12:39:07.667362",
+        "query": "hai",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-17T12:40:30.721996",
+        "query": "hai",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-17T12:44:36.808313",
+        "query": "hai",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-17T12:58:29.015504",
+        "query": "hello",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-17T14:10:22.456957",
+        "query": "what is what",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-17T14:12:39.752730",
+        "query": "hai",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-17T14:14:47.154784",
+        "query": "hellp",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-17T14:15:42.907727",
+        "query": "i didnt get the bill",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-17T14:16:05.490111",
+        "query": "why my app is slow ",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-17T15:08:17.968645",
+        "query": "hai",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-17T15:08:19.443236",
+        "query": "i didnt get the bill",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-17T15:08:44.561678",
+        "query": "i dont by payemnt but didnt get the bill",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-17T15:08:55.834198",
+        "query": "my app crashes",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-17T15:09:24.239115",
+        "query": "hai",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-17T15:09:28.833011",
+        "query": "exit",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-17T15:09:38.979171",
+        "query": "hai",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-17T15:15:01.802377",
+        "query": "hai",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-17T15:15:17.589274",
+        "query": "i dont get the bill",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-17T15:18:22.364326",
+        "query": "hai",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-17T15:18:37.144547",
+        "query": "where is my bill",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-17T15:19:38.425215",
+        "query": "where is my bill",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T12:44:45.962956",
+        "query": "i didnt get the bill i alraedy did the payment",
+        "department": "Accounts"
+    },
+    {
+        "timestamp": "2025-11-18T13:12:55.134451",
+        "query": "hai",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T13:15:32.602542",
+        "query": "bill is not emailed",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T13:16:22.333587",
+        "query": "bill is not emailed",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T13:19:15.006593",
+        "query": "i didnt get the bill",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T13:22:39.909673",
+        "query": "hai",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T13:22:50.339294",
+        "query": "where is my package",
+        "department": "Delivery"
+    },
+    {
+        "timestamp": "2025-11-18T13:24:37.773753",
+        "query": "where is my package",
+        "department": "Delivery"
+    },
+    {
+        "timestamp": "2025-11-18T13:25:22.567089",
+        "query": "where is my package",
+        "department": "Delivery"
+    },
+    {
+        "timestamp": "2025-11-18T13:28:47.425485",
+        "query": "i cannot change my password",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T13:29:09.551765",
+        "query": "account locked",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T14:39:36.925578",
+        "query": "hai",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T14:44:57.639422",
+        "query": "payment issue",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T14:47:43.758363",
+        "query": "payment issue",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T14:47:52.926400",
+        "query": "hai",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T14:48:00.726840",
+        "query": "not found",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T14:49:04.661485",
+        "query": "hai",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T14:49:51.920671",
+        "query": "hai",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T14:53:26.240863",
+        "query": "hai",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T14:53:37.593268",
+        "query": "payment issue",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T14:55:55.193732",
+        "query": "hai",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T14:56:04.530731",
+        "query": "payment issue",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T14:56:13.913111",
+        "query": "return a product",
+        "department": "Sales"
+    },
+    {
+        "timestamp": "2025-11-18T14:58:18.300800",
+        "query": "hai",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T14:58:37.718423",
+        "query": "there is an payment issue",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T14:59:01.323116",
+        "query": "payment issue during taking order",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T15:02:39.414202",
+        "query": "hai",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T15:02:50.151215",
+        "query": "what is the capital of india",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T15:03:06.782732",
+        "query": "i have an payment issue during making an order",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T15:04:10.769779",
+        "query": "and also some features are not loading",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T15:04:33.986612",
+        "query": "okay but still the same",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T15:04:48.448289",
+        "query": "same",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T15:05:13.375161",
+        "query": "make an section to talk with customer support",
+        "department": "Billing"
+    },
+    {
+        "timestamp": "2025-11-18T15:05:47.697545",
+        "query": "account locked",
+        "department": "Tech"
+    },
+    {
+        "timestamp": "2025-11-18T15:05:58.401026",
+        "query": "cannot change password",
+        "department": "Tech"
+    }
+]
