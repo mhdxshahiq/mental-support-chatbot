@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Chatbot</title>
+
+    <style>
+        body { font-family: Arial; background: #f2f2f2; margin: 0; padding: 0; }
+        #box { width: 420px; margin: 40px auto; background: white; padding: 20px; border-radius: 8px; }
+        #chat { height: 400px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; }
+        .u { text-align: right; margin: 10px 0; }
+        .b { text-align: left; margin: 10px 0; color: #007bff; }
+        #in { width: 75%; padding: 10px; }
+        #btn { padding: 10px 15px; background: #007bff; color:white; border: none; }
+    </style>
+</head>
+
+<body>
+
+<div id="box">
+    <h3>Customer Support Chat</h3>
+
+    <div id="chat"></div>
+
+    <br>
+    <input id="in" type="text" placeholder="Type..." />
+    <button id="btn" onclick="sendMsg()">Send</button>
+</div>
+
+<script>
+const API = "http://localhost:8000/chat";
+
+function add(type, text) {
+    const c = document.getElementById("chat");
+    const div = document.createElement("div");
+    div.className = type;
+    div.textContent = text;
+    c.appendChild(div);
+    c.scrollTop = c.scrollHeight;
+}
+
+async function sendMsg() {
+    let inp = document.getElementById("in");
+    let msg = inp.value.trim();
+    if (!msg) return;
+
+    add("u", msg);
+    inp.value = "";
+
+    let r = await fetch(API, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ message: msg })
+    });
+
+    let data = await r.json();
+
+    // backend routing not shown to customer
+
+    add("b", data.reply);
+}
+</script>
+
+</body>
+</html>
