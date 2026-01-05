@@ -11,7 +11,6 @@ from langchain_core.runnables import RunnableMap, RunnableSequence
 
 
 
-
 load_dotenv()
 api_key = os.getenv("GOOGLE_API_KEY")
 
@@ -135,6 +134,7 @@ while True:
     # Store chat history
     chat_history.append(f"User: {query}")
     chat_history.append(f"Bot: {bot_reply}")
+
 
 
 
